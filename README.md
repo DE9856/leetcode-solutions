@@ -20,14 +20,14 @@ The purpose of this repository is to:
 
 ## Repository Structure
 
-<pre> ```text 
+<pre>
 leetcode-solutions/ 
 ├── C/ 
 ├── Java/ 
 ├── Python/ 
 ├── LICENSE 
 └── README.md
-``` </pre>
+</pre>
 
 Each folder contains solutions written in the respective language.
 
