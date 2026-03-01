@@ -34,8 +34,8 @@ Each folder contains solutions written in the respective language.
 File naming format:
 
 0001_two_sum.c  
-0020_valid_parentheses.java  
-0155_min_stack.py  
+0009_reverse_integer.java  
+0125_valid_palindrome.py  
 
 ---
 
@@ -43,9 +43,14 @@ File naming format:
 
 | # | Problem | Difficulty | Language |
 |---|---------|------------|----------|
-| 1 | Two Sum | Easy | C |
-| 20 | Valid Parentheses | Easy | Java |
-| 155 | Min Stack | Medium | Python |
+| 9 | Paldindrome Number | Easy | Java |
+| 7 | Reverse Integer | Med | Java |
+| 1 | Two Sum | Easy | Java |
+| 13 | Roman to Integer | Easy | Java |
+| 26 | Remove Duplicates from Sorted Arrray | Easy | Java |
+| 66 | Plus One | Easy | Java |
+| 67 | Add Binary | Easy | Java |
+| 125 | Valid Palindrome | Easy | Java |
 
 (This table will be updated as more problems are solved.)
 
@@ -62,10 +67,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 0
-- Medium: 0
+- Easy: 7
+- Medium: 1
 - Hard: 0
-- Total Solved: 0
+- Total Solved: 8
 
 ---
 
