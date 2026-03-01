@@ -20,12 +20,7 @@ The purpose of this repository is to:
 
 ## Repository Structure
 
-leetcode-solutions/
-├── C/                
-├── Java/             
-├── Python/           
-├── LICENSE
-└── README.md
+<pre> ```text leetcode-solutions/ ├── C/ ├── Java/ ├── Python/ ├── LICENSE └── README.md ``` </pre>
 
 Each folder contains solutions written in the respective language.
 
