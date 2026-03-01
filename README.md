@@ -51,6 +51,7 @@ File naming format:
 | 66 | Plus One | Easy | Java |
 | 67 | Add Binary | Easy | Java |
 | 125 | Valid Palindrome | Easy | Java |
+| 509 | Fibonacci Number | Easy | Java |
 
 (This table will be updated as more problems are solved.)
 
