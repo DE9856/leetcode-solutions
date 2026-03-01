@@ -68,10 +68,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 7
+- Easy: 8
 - Medium: 1
 - Hard: 0
-- Total Solved: 8
+- Total Solved: 9
 
 ---
 
