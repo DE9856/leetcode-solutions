@@ -52,6 +52,7 @@ File naming format:
 | 67 | Add Binary | Easy | Java |
 | 125 | Valid Palindrome | Easy | Java |
 | 509 | Fibonacci Number | Easy | Java |
+| 035 | Search Insert Position | Easy | Python |
 
 (This table will be updated as more problems are solved.)
 
@@ -68,10 +69,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 8
+- Easy: 9
 - Medium: 1
 - Hard: 0
-- Total Solved: 9
+- Total Solved: 10
 
 ---
 
