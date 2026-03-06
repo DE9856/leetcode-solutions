@@ -55,6 +55,7 @@ File naming format:
 | 35 | Search Insert Position | Easy | Python |
 | 34 | Find First and Last Position of Element in Sorted Array | Med | Python | 
 | 217 | Contains Duplicate | Easy | Python |
+| 242 | Valid Anagram | Easy | Python |
 | 206 | Reverse Linked List | Easy | C |
 | 19 | Remove Nth Node From End of List | Medium | C |
 | 21 | Merge Two Sorted Lists | Easy | C |
@@ -74,10 +75,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 12
+- Easy: 13
 - Medium: 3
 - Hard: 0
-- Total Solved: 15
+- Total Solved: 16
 
 ---
 
