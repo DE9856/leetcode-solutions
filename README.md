@@ -53,7 +53,8 @@ File naming format:
 | 125 | Valid Palindrome | Easy | Java |
 | 509 | Fibonacci Number | Easy | Java |
 | 35 | Search Insert Position | Easy | Python |
-| 34 | Find First and Last Position of Element in Sorted Array | Med | Python |
+| 34 | Find First and Last Position of Element in Sorted Array | Med | Python | 
+| 217 | Contains Duplicate | Easy | Python |
 | 206 | Reverse Linked List | Easy | C |
 | 19 | Remove Nth Node From End of List | Medium | C |
 | 21 | Merge Two Sorted Lists | Easy | C |
