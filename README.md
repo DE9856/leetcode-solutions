@@ -54,6 +54,7 @@ File naming format:
 | 509 | Fibonacci Number | Easy | Java |
 | 035 | Search Insert Position | Easy | Python |
 | 034 | Find First and Last Position of Element in Sorted Array | Med | Python |
+| 206 | Reverse Linked List | Easy | C |
 
 (This table will be updated as more problems are solved.)
 
@@ -70,10 +71,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 9
+- Easy: 10
 - Medium: 2
 - Hard: 0
-- Total Solved: 11
+- Total Solved: 12
 
 ---
 
