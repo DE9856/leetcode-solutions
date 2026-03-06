@@ -52,9 +52,10 @@ File naming format:
 | 67 | Add Binary | Easy | Java |
 | 125 | Valid Palindrome | Easy | Java |
 | 509 | Fibonacci Number | Easy | Java |
-| 035 | Search Insert Position | Easy | Python |
-| 034 | Find First and Last Position of Element in Sorted Array | Med | Python |
+| 35 | Search Insert Position | Easy | Python |
+| 34 | Find First and Last Position of Element in Sorted Array | Med | Python |
 | 206 | Reverse Linked List | Easy | C |
+| 19 | Remove Nth Node From End of List | Medium | C |
 
 (This table will be updated as more problems are solved.)
 
@@ -72,9 +73,9 @@ File naming format:
 ## Progress
 
 - Easy: 10
-- Medium: 2
+- Medium: 3
 - Hard: 0
-- Total Solved: 12
+- Total Solved: 13
 
 ---
 
