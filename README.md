@@ -53,6 +53,7 @@ File naming format:
 | 125 | Valid Palindrome | Easy | Java |
 | 509 | Fibonacci Number | Easy | Java |
 | 035 | Search Insert Position | Easy | Python |
+| 034 | Find First and Last Position of Element in Sorted Array | Med | Python |
 
 (This table will be updated as more problems are solved.)
 
@@ -70,9 +71,9 @@ File naming format:
 ## Progress
 
 - Easy: 9
-- Medium: 1
+- Medium: 2
 - Hard: 0
-- Total Solved: 10
+- Total Solved: 11
 
 ---
 
