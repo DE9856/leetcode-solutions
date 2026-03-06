@@ -74,10 +74,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 11
+- Easy: 12
 - Medium: 3
 - Hard: 0
-- Total Solved: 14
+- Total Solved: 15
 
 ---
 
