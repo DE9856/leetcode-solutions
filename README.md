@@ -57,6 +57,7 @@ File naming format:
 | 217 | Contains Duplicate | Easy | Python |
 | 242 | Valid Anagram | Easy | Python |
 | 69 | Sqrt(x) | Easy | Python |
+| 31 | Next Permutation | Medium | Python |
 | 206 | Reverse Linked List | Easy | C |
 | 19 | Remove Nth Node From End of List | Medium | C |
 | 21 | Merge Two Sorted Lists | Easy | C |
@@ -78,9 +79,9 @@ File naming format:
 ## Progress
 
 - Easy: 15
-- Medium: 3
+- Medium: 4
 - Hard: 0
-- Total Solved: 18
+- Total Solved: 19
 
 ---
 
