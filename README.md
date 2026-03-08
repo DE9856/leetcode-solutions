@@ -58,6 +58,7 @@ File naming format:
 | 242 | Valid Anagram | Easy | Python |
 | 69 | Sqrt(x) | Easy | Python |
 | 31 | Next Permutation | Medium | Python |
+| 347 | Top K Frequent Elements | Medium | Python |
 | 206 | Reverse Linked List | Easy | C |
 | 19 | Remove Nth Node From End of List | Medium | C |
 | 21 | Merge Two Sorted Lists | Easy | C |
@@ -79,9 +80,9 @@ File naming format:
 ## Progress
 
 - Easy: 15
-- Medium: 4
+- Medium: 5
 - Hard: 0
-- Total Solved: 19
+- Total Solved: 20
 
 ---
 
