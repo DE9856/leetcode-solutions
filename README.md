@@ -58,6 +58,7 @@ File naming format:
 | 242 | Valid Anagram | Easy | Python |
 | 69 | Sqrt(x) | Easy | Python |
 | 27 | Remove Element | Easy | Python |
+| 724 | Find Pivot Index | Easy | Python |
 | 31 | Next Permutation | Medium | Python |
 | 347 | Top K Frequent Elements | Medium | Python |
 | 206 | Reverse Linked List | Easy | C |
@@ -80,10 +81,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 16
+- Easy: 17
 - Medium: 5
 - Hard: 0
-- Total Solved: 21
+- Total Solved: 22
 
 ---
 
