@@ -59,6 +59,7 @@ File naming format:
 | 69 | Sqrt(x) | Easy | Python |
 | 27 | Remove Element | Easy | Python |
 | 724 | Find Pivot Index | Easy | Python |
+| 1480 | Running Sum of 1d Array | Easy | Python |
 | 31 | Next Permutation | Medium | Python |
 | 347 | Top K Frequent Elements | Medium | Python |
 | 206 | Reverse Linked List | Easy | C |
@@ -81,10 +82,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 17
+- Easy: 18
 - Medium: 5
 - Hard: 0
-- Total Solved: 22
+- Total Solved: 23
 
 ---
 
