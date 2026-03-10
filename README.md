@@ -65,7 +65,7 @@ File naming format:
 | 206 | Reverse Linked List | Easy | C |
 | 19 | Remove Nth Node From End of List | Medium | C |
 | 21 | Merge Two Sorted Lists | Easy | C |
-| 83 | Remove Duplicates from Sorted List | C |
+| 83 | Remove Duplicates from Sorted List | Easy | C |
 
 (This table will be updated as more problems are solved.)
 
