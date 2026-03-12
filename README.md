@@ -64,6 +64,7 @@ File naming format:
 | 31 | Next Permutation | Medium | Python |
 | 347 | Top K Frequent Elements | Medium | Python |
 | 5 | Longest Palindromic Substring | Medium | Python |
+| 41 | First Missing Positive | Hard | Python |
 | 206 | Reverse Linked List | Easy | C |
 | 19 | Remove Nth Node From End of List | Medium | C |
 | 21 | Merge Two Sorted Lists | Easy | C |
@@ -87,8 +88,8 @@ File naming format:
 
 - Easy: 19
 - Medium: 6
-- Hard: 1
-- Total Solved: 26
+- Hard: 2
+- Total Solved: 27
 
 ---
 
