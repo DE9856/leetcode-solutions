@@ -66,6 +66,7 @@ File naming format:
 | 1365 | How Many Numbers Are Smaller Than The Current Number | Easy | Python |
 | 2011 | Final Value of Variable After Performing Operations | Easy | Python |
 | 2894 | Divisible and Non-Divisible Sums Difference | Easy | Python |
+| 2769 | Find the Maximum Achievable Number | Easy | Python |
 | 31 | Next Permutation | Medium | Python |
 | 347 | Top K Frequent Elements | Medium | Python |
 | 5 | Longest Palindromic Substring | Medium | Python |
@@ -93,10 +94,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 25
+- Easy: 26
 - Medium: 7
 - Hard: 2
-- Total Solved: 34
+- Total Solved: 35
 
 ---
 
