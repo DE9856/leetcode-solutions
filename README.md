@@ -64,6 +64,7 @@ File naming format:
 | 2942 | Find Words Containing Character | Easy | Python | 
 | 3264 | Final Array State After K Multiplication Operations I | Easy | Python |
 | 1365 | How Many Numbers Are Smaller Than The Current Number | Easy | Python |
+| 2011 | Final Value of Variable After Performing Operations | Easy | Python |
 | 31 | Next Permutation | Medium | Python |
 | 347 | Top K Frequent Elements | Medium | Python |
 | 5 | Longest Palindromic Substring | Medium | Python |
@@ -91,10 +92,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 23
+- Easy: 24
 - Medium: 7
 - Hard: 2
-- Total Solved: 32
+- Total Solved: 33
 
 ---
 
