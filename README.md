@@ -63,6 +63,7 @@ File naming format:
 | 1486 | XOR Operation in an Array | Easy | Python |
 | 2942 | Find Words Containing Character | Easy | Python | 
 | 3264 | Final Array State After K Multiplication Operations I | Easy | Python |
+| 1365 | How Many Numbers Are Smaller Than The Current Number | Easy | Python |
 | 31 | Next Permutation | Medium | Python |
 | 347 | Top K Frequent Elements | Medium | Python |
 | 5 | Longest Palindromic Substring | Medium | Python |
@@ -90,10 +91,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 22
+- Easy: 23
 - Medium: 7
 - Hard: 2
-- Total Solved: 31
+- Total Solved: 32
 
 ---
 
