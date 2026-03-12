@@ -58,6 +58,7 @@ File naming format:
 | 242 | Valid Anagram | Easy | Python | 
 | 69 | Sqrt(x) | Easy | Python |
 | 27 | Remove Element | Easy | Python |
+| 374 | Guess Number Higher or Lower | Easy | Python |
 | 709 | To Lower Case | Easy | Python |
 | 724 | Find Pivot Index | Easy | Python |
 | 744 | Find Smallest Letter Greater Than Target | Easy | Python |
@@ -98,10 +99,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 30
+- Easy: 31
 - Medium: 7
 - Hard: 2
-- Total Solved: 39
+- Total Solved: 40
 
 ---
 
