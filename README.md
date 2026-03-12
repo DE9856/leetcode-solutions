@@ -55,12 +55,13 @@ File naming format:
 | 35 | Search Insert Position | Easy | Python |
 | 34 | Find First and Last Position of Element in Sorted Array | Med | Python | 
 | 217 | Contains Duplicate | Easy | Python |
-| 242 | Valid Anagram | Easy | Python |
+| 242 | Valid Anagram | Easy | Python | 
 | 69 | Sqrt(x) | Easy | Python |
 | 27 | Remove Element | Easy | Python |
 | 724 | Find Pivot Index | Easy | Python |
 | 1480 | Running Sum of 1d Array | Easy | Python |
 | 1486 | XOR Operation in an Array | Easy | Python |
+| 2942 | Find Words Containing Character | Easy | Python |
 | 31 | Next Permutation | Medium | Python |
 | 347 | Top K Frequent Elements | Medium | Python |
 | 5 | Longest Palindromic Substring | Medium | Python |
@@ -86,10 +87,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 19
+- Easy: 20
 - Medium: 6
 - Hard: 2
-- Total Solved: 27
+- Total Solved: 28
 
 ---
 
