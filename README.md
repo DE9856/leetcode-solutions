@@ -59,6 +59,7 @@ File naming format:
 | 69 | Sqrt(x) | Easy | Python |
 | 27 | Remove Element | Easy | Python |
 | 724 | Find Pivot Index | Easy | Python |
+| 744 | Find Smallest Letter Greater Than Target | Easy | Python |
 | 1480 | Running Sum of 1d Array | Easy | Python |
 | 1486 | XOR Operation in an Array | Easy | Python |
 | 2942 | Find Words Containing Character | Easy | Python | 
@@ -96,10 +97,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 28
+- Easy: 29
 - Medium: 7
 - Hard: 2
-- Total Solved: 37
+- Total Solved: 38
 
 ---
 
