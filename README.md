@@ -68,6 +68,7 @@ File naming format:
 | 19 | Remove Nth Node From End of List | Medium | C |
 | 21 | Merge Two Sorted Lists | Easy | C |
 | 83 | Remove Duplicates from Sorted List | Easy | C |
+| 4 | Median of Two Sorted Arrays | Hard | C |
 
 (This table will be updated as more problems are solved.)
 
@@ -86,8 +87,8 @@ File naming format:
 
 - Easy: 19
 - Medium: 6
-- Hard: 0
-- Total Solved: 25
+- Hard: 1
+- Total Solved: 26
 
 ---
 
