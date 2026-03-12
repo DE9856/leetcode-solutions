@@ -65,6 +65,7 @@ File naming format:
 | 3264 | Final Array State After K Multiplication Operations I | Easy | Python |
 | 1365 | How Many Numbers Are Smaller Than The Current Number | Easy | Python |
 | 2011 | Final Value of Variable After Performing Operations | Easy | Python |
+| 2894 | Divisible and Non-Divisible Sums Difference | Easy | Python |
 | 31 | Next Permutation | Medium | Python |
 | 347 | Top K Frequent Elements | Medium | Python |
 | 5 | Longest Palindromic Substring | Medium | Python |
@@ -92,10 +93,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 24
+- Easy: 25
 - Medium: 7
 - Hard: 2
-- Total Solved: 33
+- Total Solved: 34
 
 ---
 
