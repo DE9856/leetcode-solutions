@@ -66,6 +66,7 @@ File naming format:
 | 347 | Top K Frequent Elements | Medium | Python |
 | 5 | Longest Palindromic Substring | Medium | Python |
 | 49 | Group Anagrams | Medium | Python |
+| 74 | Search a 2D Matrix | Medium | Python |
 | 41 | First Missing Positive | Hard | Python |
 | 206 | Reverse Linked List | Easy | C |
 | 19 | Remove Nth Node From End of List | Medium | C |
@@ -88,10 +89,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 20
+- Easy: 21
 - Medium: 7
 - Hard: 2
-- Total Solved: 29
+- Total Solved: 30
 
 ---
 
