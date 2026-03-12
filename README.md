@@ -43,7 +43,7 @@ File naming format:
 
 | # | Problem | Difficulty | Language |
 |---|---------|------------|----------|
-| 9 | Paldindrome Number | Easy | Java |
+| 9 | Palindrome Number | Easy | Java |
 | 7 | Reverse Integer | Med | Java |
 | 1 | Two Sum | Easy | Java |
 | 13 | Roman to Integer | Easy | Java |
