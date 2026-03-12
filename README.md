@@ -63,6 +63,7 @@ File naming format:
 | 1486 | XOR Operation in an Array | Easy | Python |
 | 31 | Next Permutation | Medium | Python |
 | 347 | Top K Frequent Elements | Medium | Python |
+| 5 | Longest Palindromic Substring | Medium | Python |
 | 206 | Reverse Linked List | Easy | C |
 | 19 | Remove Nth Node From End of List | Medium | C |
 | 21 | Merge Two Sorted Lists | Easy | C |
@@ -84,9 +85,9 @@ File naming format:
 ## Progress
 
 - Easy: 19
-- Medium: 5
+- Medium: 6
 - Hard: 0
-- Total Solved: 24
+- Total Solved: 25
 
 ---
 
