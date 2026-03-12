@@ -62,6 +62,7 @@ File naming format:
 | 1480 | Running Sum of 1d Array | Easy | Python |
 | 1486 | XOR Operation in an Array | Easy | Python |
 | 2942 | Find Words Containing Character | Easy | Python | 
+| 977 | Squares of a Sorted Array | Easy | Python |
 | 3264 | Final Array State After K Multiplication Operations I | Easy | Python |
 | 1365 | How Many Numbers Are Smaller Than The Current Number | Easy | Python |
 | 2011 | Final Value of Variable After Performing Operations | Easy | Python |
@@ -95,10 +96,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 27
+- Easy: 28
 - Medium: 7
 - Hard: 2
-- Total Solved: 36
+- Total Solved: 37
 
 ---
 
