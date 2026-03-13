@@ -74,6 +74,7 @@ File naming format:
 | 2769 | Find the Maximum Achievable Number | Easy | Python |
 | 3512 | Minimum Operations to Make Array Sum Divisible by K | Easy | Python |
 | 31 | Next Permutation | Medium | Python |
+| 238 | Product of Array Except Self | Medium | Python |
 | 347 | Top K Frequent Elements | Medium | Python |
 | 5 | Longest Palindromic Substring | Medium | Python |
 | 49 | Group Anagrams | Medium | Python |
@@ -102,9 +103,9 @@ File naming format:
 ## Progress
 
 - Easy: 32
-- Medium: 8
+- Medium: 9
 - Hard: 2
-- Total Solved: 42
+- Total Solved: 43
 
 ---
 
