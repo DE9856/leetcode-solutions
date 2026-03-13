@@ -78,6 +78,7 @@ File naming format:
 | 5 | Longest Palindromic Substring | Medium | Python |
 | 49 | Group Anagrams | Medium | Python |
 | 74 | Search a 2D Matrix | Medium | Python |
+| 53 | Maximum Subarray | Medium | Python |
 | 41 | First Missing Positive | Hard | Python |
 | 206 | Reverse Linked List | Easy | C |
 | 19 | Remove Nth Node From End of List | Medium | C |
@@ -101,9 +102,9 @@ File naming format:
 ## Progress
 
 - Easy: 32
-- Medium: 7
+- Medium: 8
 - Hard: 2
-- Total Solved: 41
+- Total Solved: 42
 
 ---
 
