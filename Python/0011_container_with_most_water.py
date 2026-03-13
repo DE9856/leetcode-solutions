@@ -5,7 +5,8 @@ class Solution(object):
         max1 = 0
         current = 0
         while(left<right):
-            current = (right-left)*min(height[left], height[right])
+            minvalue = height[left] if height[left]<height[right] else height[right]
+            current = (right-left)*minvalue
             if current > max1:
                 max1 = current
             if height[left]<height[right]:
