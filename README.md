@@ -75,6 +75,7 @@ File naming format:
 | 3512 | Minimum Operations to Make Array Sum Divisible by K | Easy | Python |
 | 11 | Container With Most Water | Medium | Python |
 | 31 | Next Permutation | Medium | Python |
+| 189 | Rotate Array | Medium | Python |
 | 238 | Product of Array Except Self | Medium | Python |
 | 347 | Top K Frequent Elements | Medium | Python |
 | 5 | Longest Palindromic Substring | Medium | Python |
@@ -104,9 +105,9 @@ File naming format:
 ## Progress
 
 - Easy: 32
-- Medium: 10
+- Medium: 11
 - Hard: 2
-- Total Solved: 44
+- Total Solved: 45
 
 ---
 
