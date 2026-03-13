@@ -73,6 +73,7 @@ File naming format:
 | 2894 | Divisible and Non-Divisible Sums Difference | Easy | Python |
 | 2769 | Find the Maximum Achievable Number | Easy | Python |
 | 3512 | Minimum Operations to Make Array Sum Divisible by K | Easy | Python |
+| 11 | Container With Most Water | Medium | Python |
 | 31 | Next Permutation | Medium | Python |
 | 238 | Product of Array Except Self | Medium | Python |
 | 347 | Top K Frequent Elements | Medium | Python |
@@ -103,9 +104,9 @@ File naming format:
 ## Progress
 
 - Easy: 32
-- Medium: 9
+- Medium: 10
 - Hard: 2
-- Total Solved: 43
+- Total Solved: 44
 
 ---
 
