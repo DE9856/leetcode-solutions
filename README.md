@@ -58,6 +58,7 @@ File naming format:
 | 242 | Valid Anagram | Easy | Python | 
 | 69 | Sqrt(x) | Easy | Python |
 | 27 | Remove Element | Easy | Python |
+| 121 | Best Time to Buy and Sell Stock | Easy | Python |
 | 374 | Guess Number Higher or Lower | Easy | Python |
 | 709 | To Lower Case | Easy | Python |
 | 724 | Find Pivot Index | Easy | Python |
@@ -99,10 +100,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 31
+- Easy: 32
 - Medium: 7
 - Hard: 2
-- Total Solved: 40
+- Total Solved: 41
 
 ---
 
