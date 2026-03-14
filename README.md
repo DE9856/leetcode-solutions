@@ -82,6 +82,7 @@ File naming format:
 | 49 | Group Anagrams | Medium | Python |
 | 74 | Search a 2D Matrix | Medium | Python |
 | 53 | Maximum Subarray | Medium | Python |
+| 56 | Merge Intervals | Medium | Python |
 | 41 | First Missing Positive | Hard | Python |
 | 206 | Reverse Linked List | Easy | C |
 | 19 | Remove Nth Node From End of List | Medium | C |
@@ -105,9 +106,9 @@ File naming format:
 ## Progress
 
 - Easy: 32
-- Medium: 11
+- Medium: 12
 - Hard: 2
-- Total Solved: 45
+- Total Solved: 46
 
 ---
 
