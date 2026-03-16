@@ -86,6 +86,7 @@ File naming format:
 | 56 | Merge Intervals | Medium | Python |
 | 41 | First Missing Positive | Hard | Python |
 | 206 | Reverse Linked List | Easy | C |
+| 94 | Binary Tree Inorder Traversal | Easy | C |
 | 19 | Remove Nth Node From End of List | Medium | C |
 | 21 | Merge Two Sorted Lists | Easy | C |
 | 83 | Remove Duplicates from Sorted List | Easy | C |
@@ -106,10 +107,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 33
+- Easy: 34
 - Medium: 12
 - Hard: 2
-- Total Solved: 47
+- Total Solved: 48
 
 ---
 
