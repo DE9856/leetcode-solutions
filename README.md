@@ -52,6 +52,7 @@ File naming format:
 | 67 | Add Binary | Easy | Java |
 | 125 | Valid Palindrome | Easy | Java |
 | 509 | Fibonacci Number | Easy | Java |
+| 14 | Longest Common Prefix | Easy | Python |
 | 35 | Search Insert Position | Easy | Python |
 | 34 | Find First and Last Position of Element in Sorted Array | Med | Python | 
 | 217 | Contains Duplicate | Easy | Python |
@@ -108,10 +109,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 34
+- Easy: 35
 - Medium: 13
 - Hard: 2
-- Total Solved: 49
+- Total Solved: 50
 
 ---
 
