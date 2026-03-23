@@ -6,14 +6,14 @@
  * };
  */
 typedef struct ListNode *node;
-node create(int data){
+node create(){
     node newnode = (node)malloc(sizeof(struct ListNode));
-    newnode-> val = data;
+    newnode-> val = 0;
     newnode->next = NULL;
     return newnode;
 }
 bool hasCycle(struct ListNode *head) {
-    node dummy = create(5);
+    node dummy = create();
     node temp = head;
     while(temp!=NULL){
         if(temp->next==dummy)
