@@ -5,6 +5,27 @@
  *     struct ListNode *next;
  * };
  */
+typedef struct ListNode *node;
+struct ListNode* middleNode(struct ListNode* head) {
+    node slow = head;
+    node fast = head;
+
+    while(fast && fast->next){
+        slow = slow->next;
+        fast = fast->next->next;
+    }    
+    return slow;
+}
+
+// SOLUTION 2
+
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     struct ListNode *next;
+ * };
+ */
  typedef struct ListNode *node;
 node create(){
     node newnode = (node)malloc(sizeof(struct ListNode));
@@ -27,3 +48,7 @@ struct ListNode* middleNode(struct ListNode* head) {
     return temp;
 
 }
+
+
+
+
