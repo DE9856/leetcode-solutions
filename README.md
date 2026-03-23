@@ -93,6 +93,7 @@ File naming format:
 | 21 | Merge Two Sorted Lists | Easy | C |
 | 83 | Remove Duplicates from Sorted List | Easy | C |
 | 96 | Unique Binary Search Trees | Medium | C |
+| 2 | Add Two Numbers | Medium | C |
 | 4 | Median of Two Sorted Arrays | Hard | C |
 
 (This table will be updated as more problems are solved.)
@@ -111,9 +112,9 @@ File naming format:
 ## Progress
 
 - Easy: 36
-- Medium: 13
+- Medium: 14
 - Hard: 2
-- Total Solved: 51
+- Total Solved: 52
 
 ---
 
