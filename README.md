@@ -88,6 +88,7 @@ File naming format:
 | 41 | First Missing Positive | Hard | Python |
 | 206 | Reverse Linked List | Easy | C |
 | 94 | Binary Tree Inorder Traversal | Easy | C |
+| 141 | Linked List Cycle | Easy | C |
 | 19 | Remove Nth Node From End of List | Medium | C |
 | 21 | Merge Two Sorted Lists | Easy | C |
 | 83 | Remove Duplicates from Sorted List | Easy | C |
@@ -109,10 +110,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 35
+- Easy: 36
 - Medium: 13
 - Hard: 2
-- Total Solved: 50
+- Total Solved: 51
 
 ---
 
