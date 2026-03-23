@@ -92,6 +92,7 @@ File naming format:
 | 19 | Remove Nth Node From End of List | Medium | C |
 | 21 | Merge Two Sorted Lists | Easy | C |
 | 83 | Remove Duplicates from Sorted List | Easy | C |
+| 876 | Middle Of The Linked List | Easy | C |
 | 96 | Unique Binary Search Trees | Medium | C |
 | 2 | Add Two Numbers | Medium | C |
 | 4 | Median of Two Sorted Arrays | Hard | C |
@@ -111,10 +112,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 36
+- Easy: 37
 - Medium: 14
 - Hard: 2
-- Total Solved: 52
+- Total Solved: 53
 
 ---
 
