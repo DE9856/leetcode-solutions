@@ -86,6 +86,7 @@ File naming format:
 | 53 | Maximum Subarray | Medium | Python |
 | 56 | Merge Intervals | Medium | Python |
 | 41 | First Missing Positive | Hard | Python |
+| 160 | Intersection of Two Linked Lists | Easy | C |
 | 206 | Reverse Linked List | Easy | C |
 | 94 | Binary Tree Inorder Traversal | Easy | C |
 | 141 | Linked List Cycle | Easy | C |
@@ -112,10 +113,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 37
+- Easy: 38
 - Medium: 14
 - Hard: 2
-- Total Solved: 53
+- Total Solved: 54
 
 ---
 
