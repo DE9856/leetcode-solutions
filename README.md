@@ -54,7 +54,6 @@ File naming format:
 | 509 | Fibonacci Number | Easy | Java |
 | 14 | Longest Common Prefix | Easy | Python |
 | 35 | Search Insert Position | Easy | Python |
- 
 | 217 | Contains Duplicate | Easy | Python |
 | 242 | Valid Anagram | Easy | Python | 
 | 69 | Sqrt(x) | Easy | Python |
@@ -84,13 +83,14 @@ File naming format:
 | 347 | Top K Frequent Elements | Medium | Python |
 | 5 | Longest Palindromic Substring | Medium | Python |
 | 49 | Group Anagrams | Medium | Python |
-| 34 | Find First and Last Position of Element in Sorted Array | Med | Python |
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | Python |
 | 74 | Search a 2D Matrix | Medium | Python |
 | 53 | Maximum Subarray | Medium | Python |
 | 56 | Merge Intervals | Medium | Python |
 | 560 | Subarray Sum Equals K | Medium | Python |
 | 563 | Continuous Subarray Sum | Medium | Python |
 | 3 | Longest Substring Without Repeating Characters | Medium | Python |
+| 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | Python |
 | 41 | First Missing Positive | Hard | Python |
 | 76 | Minimum Window Substring | Hard | Python |
 | 160 | Intersection of Two Linked Lists | Easy | C |
@@ -121,9 +121,9 @@ File naming format:
 ## Progress
 
 - Easy: 40
-- Medium: 17
+- Medium: 18
 - Hard: 3
-- Total Solved: 60
+- Total Solved: 61
 
 ---
 
