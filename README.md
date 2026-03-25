@@ -86,6 +86,7 @@ File naming format:
 | 53 | Maximum Subarray | Medium | Python |
 | 56 | Merge Intervals | Medium | Python |
 | 560 | Subarray Sum Equals K | Medium | Python |
+| 563 | Continuous Subarray Sum | Medium | Python |
 | 41 | First Missing Positive | Hard | Python |
 | 160 | Intersection of Two Linked Lists | Easy | C |
 | 206 | Reverse Linked List | Easy | C |
@@ -115,9 +116,9 @@ File naming format:
 ## Progress
 
 - Easy: 38
-- Medium: 15
+- Medium: 16
 - Hard: 2
-- Total Solved: 55
+- Total Solved: 56
 
 ---
 
