@@ -54,7 +54,7 @@ File naming format:
 | 509 | Fibonacci Number | Easy | Java |
 | 14 | Longest Common Prefix | Easy | Python |
 | 35 | Search Insert Position | Easy | Python |
-| 34 | Find First and Last Position of Element in Sorted Array | Med | Python | 
+ 
 | 217 | Contains Duplicate | Easy | Python |
 | 242 | Valid Anagram | Easy | Python | 
 | 69 | Sqrt(x) | Easy | Python |
@@ -76,6 +76,7 @@ File naming format:
 | 3512 | Minimum Operations to Make Array Sum Divisible by K | Easy | Python |
 | 58 | Length of Last Word | Easy | Python |
 | 387 | First Unique Character in a String | Easy | Python |
+| 643 | Maximum Average Subarray I | Easy | Python |
 | 11 | Container With Most Water | Medium | Python |
 | 31 | Next Permutation | Medium | Python |
 | 189 | Rotate Array | Medium | Python |
@@ -83,6 +84,7 @@ File naming format:
 | 347 | Top K Frequent Elements | Medium | Python |
 | 5 | Longest Palindromic Substring | Medium | Python |
 | 49 | Group Anagrams | Medium | Python |
+| 34 | Find First and Last Position of Element in Sorted Array | Med | Python |
 | 74 | Search a 2D Matrix | Medium | Python |
 | 53 | Maximum Subarray | Medium | Python |
 | 56 | Merge Intervals | Medium | Python |
@@ -118,10 +120,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 39
+- Easy: 40
 - Medium: 17
 - Hard: 3
-- Total Solved: 59
+- Total Solved: 60
 
 ---
 
