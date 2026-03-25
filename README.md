@@ -75,6 +75,7 @@ File naming format:
 | 2769 | Find the Maximum Achievable Number | Easy | Python |
 | 3512 | Minimum Operations to Make Array Sum Divisible by K | Easy | Python |
 | 58 | Length of Last Word | Easy | Python |
+| 387 | First Unique Character in a String | Easy | Python |
 | 11 | Container With Most Water | Medium | Python |
 | 31 | Next Permutation | Medium | Python |
 | 189 | Rotate Array | Medium | Python |
@@ -115,10 +116,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 38
+- Easy: 39
 - Medium: 16
 - Hard: 2
-- Total Solved: 56
+- Total Solved: 57
 
 ---
 
