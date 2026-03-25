@@ -45,7 +45,7 @@ File naming format:
 |---|---------|------------|----------|
 | 9 | Palindrome Number | Easy | Java |
 | 7 | Reverse Integer | Med | Java |
-| 1 | Two Sum | Easy | Java |
+| 1 | Two Sum | Easy | Java, Python |
 | 13 | Roman to Integer | Easy | Java |
 | 26 | Remove Duplicates from Sorted Arrray | Easy | Java |
 | 66 | Plus One | Easy | Java |
