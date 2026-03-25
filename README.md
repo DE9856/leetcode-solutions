@@ -90,6 +90,7 @@ File naming format:
 | 563 | Continuous Subarray Sum | Medium | Python |
 | 3 | Longest Substring Without Repeating Characters | Medium | Python |
 | 41 | First Missing Positive | Hard | Python |
+| 76 | Minimum Window Substring | Hard | Python |
 | 160 | Intersection of Two Linked Lists | Easy | C |
 | 206 | Reverse Linked List | Easy | C |
 | 94 | Binary Tree Inorder Traversal | Easy | C |
@@ -119,8 +120,8 @@ File naming format:
 
 - Easy: 39
 - Medium: 17
-- Hard: 2
-- Total Solved: 58
+- Hard: 3
+- Total Solved: 59
 
 ---
 
