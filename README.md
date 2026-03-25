@@ -88,6 +88,7 @@ File naming format:
 | 56 | Merge Intervals | Medium | Python |
 | 560 | Subarray Sum Equals K | Medium | Python |
 | 563 | Continuous Subarray Sum | Medium | Python |
+| 3 | Longest Substring Without Repeating Characters | Medium | Python |
 | 41 | First Missing Positive | Hard | Python |
 | 160 | Intersection of Two Linked Lists | Easy | C |
 | 206 | Reverse Linked List | Easy | C |
@@ -117,9 +118,9 @@ File naming format:
 ## Progress
 
 - Easy: 39
-- Medium: 16
+- Medium: 17
 - Hard: 2
-- Total Solved: 57
+- Total Solved: 58
 
 ---
 
