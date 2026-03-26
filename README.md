@@ -75,6 +75,7 @@ File naming format:
 | 3512 | Minimum Operations to Make Array Sum Divisible by K | Easy | Python |
 | 58 | Length of Last Word | Easy | Python |
 | 387 | First Unique Character in a String | Easy | Python |
+| 455 | Assign Cookies | Easy | Python |
 | 643 | Maximum Average Subarray I | Easy | Python |
 | 1710 | Maximum Units on a Truck | Easy | Python |
 | 11 | Container With Most Water | Medium | Python |
@@ -122,10 +123,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 41
+- Easy: 42
 - Medium: 19
 - Hard: 3
-- Total Solved: 63
+- Total Solved: 64
 
 ---
 
