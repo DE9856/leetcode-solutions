@@ -77,6 +77,7 @@ File naming format:
 | 387 | First Unique Character in a String | Easy | Python |
 | 455 | Assign Cookies | Easy | Python |
 | 643 | Maximum Average Subarray I | Easy | Python |
+| 1005 | Maximize Sum of Array After K Negations | Easy | Python |
 | 1710 | Maximum Units on a Truck | Easy | Python |
 | 11 | Container With Most Water | Medium | Python |
 | 31 | Next Permutation | Medium | Python |
@@ -124,10 +125,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 42
+- Easy: 43
 - Medium: 19
 - Hard: 4
-- Total Solved: 65
+- Total Solved: 66
 
 ---
 
