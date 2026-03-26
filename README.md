@@ -79,6 +79,7 @@ File naming format:
 | 643 | Maximum Average Subarray I | Easy | Python |
 | 1005 | Maximize Sum of Array After K Negations | Easy | Python |
 | 1710 | Maximum Units on a Truck | Easy | Python |
+| 1758 | Minimum Changes To Make Alternative Binary String | Easy | Python |
 | 11 | Container With Most Water | Medium | Python |
 | 31 | Next Permutation | Medium | Python |
 | 189 | Rotate Array | Medium | Python |
@@ -125,10 +126,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 43
+- Easy: 44
 - Medium: 19
 - Hard: 4
-- Total Solved: 66
+- Total Solved: 67
 
 ---
 
