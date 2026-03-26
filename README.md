@@ -97,6 +97,7 @@ File naming format:
 | 3 | Longest Substring Without Repeating Characters | Medium | Python |
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | Python |
 | 424 | Longest Repeating Character Replacement | Medium | Python |
+| 931 | Minimum Falling Path Sum | Medium | Python |
 | 41 | First Missing Positive | Hard | Python |
 | 76 | Minimum Window Substring | Hard | Python |
 | 135 | Candy | Hard | Python |
@@ -128,9 +129,9 @@ File naming format:
 ## Progress
 
 - Easy: 45
-- Medium: 19
+- Medium: 20
 - Hard: 4
-- Total Solved: 68
+- Total Solved: 69
 
 ---
 
