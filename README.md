@@ -96,6 +96,7 @@ File naming format:
 | 424 | Longest Repeating Character Replacement | Medium | Python |
 | 41 | First Missing Positive | Hard | Python |
 | 76 | Minimum Window Substring | Hard | Python |
+| 135 | Candy | Hard | Python |
 | 160 | Intersection of Two Linked Lists | Easy | C |
 | 206 | Reverse Linked List | Easy | C |
 | 94 | Binary Tree Inorder Traversal | Easy | C |
@@ -125,8 +126,8 @@ File naming format:
 
 - Easy: 42
 - Medium: 19
-- Hard: 3
-- Total Solved: 64
+- Hard: 4
+- Total Solved: 65
 
 ---
 
