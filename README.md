@@ -76,6 +76,7 @@ File naming format:
 | 58 | Length of Last Word | Easy | Python |
 | 387 | First Unique Character in a String | Easy | Python |
 | 643 | Maximum Average Subarray I | Easy | Python |
+| 1710 | Maximum Units on a Truck | Easy | Python |
 | 11 | Container With Most Water | Medium | Python |
 | 31 | Next Permutation | Medium | Python |
 | 189 | Rotate Array | Medium | Python |
@@ -121,10 +122,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 40
+- Easy: 41
 - Medium: 19
 - Hard: 3
-- Total Solved: 62
+- Total Solved: 63
 
 ---
 
