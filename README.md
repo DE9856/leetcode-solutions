@@ -80,7 +80,8 @@ File naming format:
 | 1005 | Maximize Sum of Array After K Negations | Easy | Python |
 | 1710 | Maximum Units on a Truck | Easy | Python |
 | 1758 | Minimum Changes To Make Alternative Binary String | Easy | Python |
-| 2185 | Counting Words With a Given Prefix | Easy | Python |
+| 2185 | Counting Words With a Given Prefix | Easy | Python | 
+| 28 | Find the Index of the First Occurrence in a String | Easy | Python |
 | 11 | Container With Most Water | Medium | Python |
 | 31 | Next Permutation | Medium | Python |
 | 189 | Rotate Array | Medium | Python |
@@ -129,10 +130,10 @@ File naming format:
 
 ## Progress
 
-- Easy: 45
+- Easy: 46
 - Medium: 21
 - Hard: 4
-- Total Solved: 70
+- Total Solved: 71
 
 ---
 
