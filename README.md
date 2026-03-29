@@ -29,13 +29,14 @@
 
 ## 📁 Repository Structure
 
-leetcode-solutions/
-├── C/
-├── Java/
-├── Python/
-├── LICENSE
+<pre>
+leetcode-solutions/ 
+├── C/ 
+├── Java/ 
+├── Python/ 
+├── LICENSE 
 └── README.md
-
+</pre>
 ---
 
 ## 🧠 Topics Covered
