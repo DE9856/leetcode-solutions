@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-DSA-blue" />
+  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-blue" />
+  <img src="https://img.shields.io/badge/Track-LeetCode%20Prep-orange" />
 </p>
 
 ---
