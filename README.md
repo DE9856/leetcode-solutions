@@ -137,6 +137,25 @@ leetcode-solutions/
 
 ---
 
+## Progress
+
+**Python**
+- Easy: 30
+- Medium: 18
+- Hard: 3
+
+**Java**
+- Easy: 8
+- Medium: 1
+- Hard: 0
+
+**C**
+- Easy: 7
+- Medium: 3
+- Hard: 1
+
+---
+
 ## 🔥 Consistency
 
 Solving problems daily to build strong problem-solving intuition and crack technical interviews.
