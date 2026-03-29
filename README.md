@@ -39,19 +39,6 @@ leetcode-solutions/
 </pre>
 ---
 
-## 🧠 Topics Covered
-
-- Arrays  
-- Strings  
-- Hashing  
-- Sliding Window  
-- Two Pointers  
-- Binary Search  
-- Dynamic Programming  
-- Trees & Linked Lists  
-
----
-
 ## 📌 Approach
 
 - Focus on understanding patterns rather than memorizing solutions  
