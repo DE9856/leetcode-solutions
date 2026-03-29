@@ -148,13 +148,6 @@ leetcode-solutions/
 | 135 | Candy | Hard | Python |
 ---
 
-## Progress
-
-- Easy: 46
-- Medium: 21
-- Hard: 4
-- Total Solved: 71
-
 ## 🔥 Consistency
 
 Solving problems daily to build strong problem-solving intuition and crack technical interviews.
