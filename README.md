@@ -1,46 +1,72 @@
-# LeetCode Solutions
+# 🚀 LeetCode Solutions
 
-This repository contains my solutions to LeetCode problems solved in C, Java, and Python.
+<p align="center">
+  <b>Consistent DSA Practice | Clean Code | Interview Prep</b>
+</p>
 
-The purpose of this repository is to:
-- Strengthen problem-solving skills
-- Improve algorithmic thinking
-- Practice writing clean and efficient code
-- Track consistency and progress over time
-
----
-
-## Languages Used
-
-- C
-- Java
-- Python
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-DSA-blue" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+</p>
 
 ---
 
-## Repository Structure
+## 📊 LeetCode Stats
 
-<pre>
-leetcode-solutions/ 
-├── C/ 
-├── Java/ 
-├── Python/ 
-├── LICENSE 
+![LeetCode Stats](https://leetcard.jacoblin.cool/xaEOgeJPHr?theme=dark&font=baloo&ext=heatmap)
+
+---
+
+## 🔥 Daily Streak
+
+![LeetCode Streak](https://streak-stats.demolab.com?user=xaEOgeJPHr&theme=dark)
+
+---
+
+## 🛠 Languages Used
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
+
+---
+
+## 📁 Repository Structure
+
+leetcode-solutions/
+├── C/
+├── Java/
+├── Python/
+├── LICENSE
 └── README.md
-</pre>
-
-Each folder contains solutions written in the respective language.
-
-File naming format:
-
-0001_two_sum.c  
-0009_reverse_integer.java  
-0125_valid_palindrome.py  
 
 ---
 
-## Problem Log
+## 🧠 Topics Covered
 
+- Arrays  
+- Strings  
+- Hashing  
+- Sliding Window  
+- Two Pointers  
+- Binary Search  
+- Dynamic Programming  
+- Trees & Linked Lists  
+
+---
+
+## 📌 Approach
+
+- Focus on understanding patterns rather than memorizing solutions  
+- Analyze time and space complexity  
+- Write clean, readable, and well-structured code  
+- Revisit problems to improve optimization  
+
+---
+
+## 📚 Problem Log
 
 **JAVA**
 | # | Problem | Difficulty | Language |
@@ -126,18 +152,6 @@ File naming format:
 | 41 | First Missing Positive | Hard | Python |
 | 76 | Minimum Window Substring | Hard | Python |
 | 135 | Candy | Hard | Python |
-
-(This table will be updated as more problems are solved.)
-
----
-
-## Approach
-
-- Focus on understanding patterns rather than memorizing solutions
-- Analyze time and space complexity
-- Write clean, readable, and well-structured code
-- Revisit problems to improve optimization
-
 ---
 
 ## Progress
@@ -147,9 +161,6 @@ File naming format:
 - Hard: 4
 - Total Solved: 71
 
----
+## 🔥 Consistency
 
-## Note
-
-This repository is for learning and practice purposes.  
-Problem statements belong to LeetCode.
+Solving problems daily to build strong problem-solving intuition and crack technical interviews.
