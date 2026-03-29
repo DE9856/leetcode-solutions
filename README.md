@@ -62,35 +62,6 @@ leetcode-solutions/
 
 ## 📚 Problem Log
 
-**JAVA**
-| # | Problem | Difficulty | Language |
-|---|---------|------------|----------|
-| 1 | Two Sum | Easy | Java |
-| 9 | Palindrome Number | Easy | Java |
-| 13 | Roman to Integer | Easy | Java |
-| 26 | Remove Duplicates from Sorted Arrray | Easy | Java |
-| 66 | Plus One | Easy | Java |
-| 67 | Add Binary | Easy | Java |
-| 125 | Valid Palindrome | Easy | Java |
-| 509 | Fibonacci Number | Easy | Java |
-| 7 | Reverse Integer | Med | Java |
-
-
-**C**
-| # | Problem | Difficulty | Language |
-|---|---------|------------|----------|
-| 21 | Merge Two Sorted Lists | Easy | C |
-| 83 | Remove Duplicates from Sorted List | Easy | C |
-| 94 | Binary Tree Inorder Traversal | Easy | C |
-| 141 | Linked List Cycle | Easy | C |
-| 160 | Intersection of Two Linked Lists | Easy | C |
-| 206 | Reverse Linked List | Easy | C |
-| 876 | Middle Of The Linked List | Easy | C |
-| 2 | Add Two Numbers | Medium | C |
-| 19 | Remove Nth Node From End of List | Medium | C |
-| 96 | Unique Binary Search Trees | Medium | C |
-| 4 | Median of Two Sorted Arrays | Hard | C |
-
 
 **PYTHON**
 | # | Problem | Difficulty | Language |
@@ -146,6 +117,36 @@ leetcode-solutions/
 | 41 | First Missing Positive | Hard | Python |
 | 76 | Minimum Window Substring | Hard | Python |
 | 135 | Candy | Hard | Python |
+
+**JAVA**
+| # | Problem | Difficulty | Language |
+|---|---------|------------|----------|
+| 1 | Two Sum | Easy | Java |
+| 9 | Palindrome Number | Easy | Java |
+| 13 | Roman to Integer | Easy | Java |
+| 26 | Remove Duplicates from Sorted Arrray | Easy | Java |
+| 66 | Plus One | Easy | Java |
+| 67 | Add Binary | Easy | Java |
+| 125 | Valid Palindrome | Easy | Java |
+| 509 | Fibonacci Number | Easy | Java |
+| 7 | Reverse Integer | Med | Java |
+
+
+**C**
+| # | Problem | Difficulty | Language |
+|---|---------|------------|----------|
+| 21 | Merge Two Sorted Lists | Easy | C |
+| 83 | Remove Duplicates from Sorted List | Easy | C |
+| 94 | Binary Tree Inorder Traversal | Easy | C |
+| 141 | Linked List Cycle | Easy | C |
+| 160 | Intersection of Two Linked Lists | Easy | C |
+| 206 | Reverse Linked List | Easy | C |
+| 876 | Middle Of The Linked List | Easy | C |
+| 2 | Add Two Numbers | Medium | C |
+| 19 | Remove Nth Node From End of List | Medium | C |
+| 96 | Unique Binary Search Trees | Medium | C |
+| 4 | Median of Two Sorted Arrays | Hard | C |
+
 ---
 
 ## 🔥 Consistency
