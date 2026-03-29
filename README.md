@@ -47,7 +47,19 @@ leetcode-solutions/
 - Revisit problems to improve optimization  
 
 ---
+## 📊 Progress
 
+<p align="center">
+
+| Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
+|----------|--------|----------|--------|-------|
+| Python   | 30     | 18       | 3      | 51    |
+| Java     | 8      | 1        | 0      | 9     |
+| C        | 7      | 3        | 1      | 11    |
+
+</p>
+
+---
 ## 📚 Problem Log
 
 
@@ -136,19 +148,6 @@ leetcode-solutions/
 | 4 | Median of Two Sorted Arrays | Hard | C |
 
 ---
-
-## 📊 Progress
-
-<p align="center">
-
-| Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
-|----------|--------|----------|--------|-------|
-| Python   | 30     | 18       | 3      | 51    |
-| Java     | 8      | 1        | 0      | 9     |
-| C        | 7      | 3        | 1      | 11    |
-
-</p>
-
 
 ## 🔥 Consistency
 
