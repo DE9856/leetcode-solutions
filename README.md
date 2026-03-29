@@ -50,13 +50,11 @@ leetcode-solutions/
 ## 📊 Progress
 
 <p align="center">
-
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
 | Python   | 30     | 18       | 3      | 51    |
 | Java     | 8      | 1        | 0      | 9     |
 | C        | 7      | 3        | 1      | 11    |
-
 </p>
 
 ---
