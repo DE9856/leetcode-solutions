@@ -143,9 +143,9 @@ leetcode-solutions/
 
 | Language | Easy | Medium | Hard |
 |----------|------|--------|------|
-| Python   | 0    | 0      | 0    |
-| Java     | 0    | 0      | 0    |
-| C        | 0    | 0      | 0    |
+| Python | 30 | 18 | 3 |
+| Java | 8 | 0 | 0 |
+| C | 7 | 3 | 1 |
 
 <!-- END_PROGRESS -->
 
@@ -154,6 +154,22 @@ leetcode-solutions/
 ## 📈 Progress Badges
 
 <!-- START_BADGES -->
+
+### 🐍 Python
+![Easy](https://img.shields.io/badge/Easy-30-brightgreen)
+![Medium](https://img.shields.io/badge/Medium-18-yellow)
+![Hard](https://img.shields.io/badge/Hard-3-red)
+
+### ☕ Java
+![Easy](https://img.shields.io/badge/Easy-8-brightgreen)
+![Medium](https://img.shields.io/badge/Medium-0-yellow)
+![Hard](https://img.shields.io/badge/Hard-0-lightgrey)
+
+### ⚙️ C
+![Easy](https://img.shields.io/badge/Easy-7-brightgreen)
+![Medium](https://img.shields.io/badge/Medium-3-yellow)
+![Hard](https://img.shields.io/badge/Hard-1-red)
+
 <!-- END_BADGES -->
 ---
 
