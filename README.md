@@ -54,8 +54,9 @@ leetcode-solutions/
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
 | Python   | 30     | 19       | 3      | 51    |
-| Java     | 8      | 1        | 0      | 9     |
 | C        | 7      | 3        | 1      | 11    |
+| Java     | 8      | 1        | 0      | 9     |
+
 
 </p>
 
@@ -119,19 +120,6 @@ leetcode-solutions/
 | 76 | Minimum Window Substring | Hard | Python |
 | 135 | Candy | Hard | Python |
 
-**JAVA**
-| # | Problem | Difficulty | Language |
-|---|---------|------------|----------|
-| 1 | Two Sum | Easy | Java |
-| 9 | Palindrome Number | Easy | Java |
-| 13 | Roman to Integer | Easy | Java |
-| 26 | Remove Duplicates from Sorted Arrray | Easy | Java |
-| 66 | Plus One | Easy | Java |
-| 67 | Add Binary | Easy | Java |
-| 125 | Valid Palindrome | Easy | Java |
-| 509 | Fibonacci Number | Easy | Java |
-| 7 | Reverse Integer | Med | Java |
-
 
 **C**
 | # | Problem | Difficulty | Language |
@@ -147,6 +135,20 @@ leetcode-solutions/
 | 19 | Remove Nth Node From End of List | Medium | C |
 | 96 | Unique Binary Search Trees | Medium | C |
 | 4 | Median of Two Sorted Arrays | Hard | C |
+
+
+**JAVA**
+| # | Problem | Difficulty | Language |
+|---|---------|------------|----------|
+| 1 | Two Sum | Easy | Java |
+| 9 | Palindrome Number | Easy | Java |
+| 13 | Roman to Integer | Easy | Java |
+| 26 | Remove Duplicates from Sorted Arrray | Easy | Java |
+| 66 | Plus One | Easy | Java |
+| 67 | Add Binary | Easy | Java |
+| 125 | Valid Palindrome | Easy | Java |
+| 509 | Fibonacci Number | Easy | Java |
+| 7 | Reverse Integer | Med | Java |
 
 ---
 
