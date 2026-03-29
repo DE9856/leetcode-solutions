@@ -12,8 +12,10 @@
 ---
 
 ## 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/xaEOgeJPHr?theme=dark&font=baloo&ext=heatmap)
----
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/xaEOgeJPHr?theme=dark&font=baloo&ext=heatmap" />
+</p>
 
 ## 🛠 Languages Used
 
