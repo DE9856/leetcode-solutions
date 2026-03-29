@@ -17,12 +17,6 @@
 
 ---
 
-## 🔥 Daily Streak
-
-![LeetCode Streak](https://streak-stats.demolab.com?user=xaEOgeJPHr&theme=dark)
-
----
-
 ## 🛠 Languages Used
 
 <p>
