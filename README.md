@@ -105,7 +105,6 @@ File naming format:
 | 2942 | Find Words Containing Character | Easy | Python |
 | 3264 | Final Array State After K Multiplication Operations I | Easy | Python |
 | 3512 | Minimum Operations to Make Array Sum Divisible by K | Easy | Python |
-
 | 3 | Longest Substring Without Repeating Characters | Medium | Python |
 | 5 | Longest Palindromic Substring | Medium | Python |
 | 11 | Container With Most Water | Medium | Python |
@@ -124,7 +123,6 @@ File naming format:
 | 926 | Flip String to Monotone Increasing | Medium | Python |
 | 931 | Minimum Falling Path Sum | Medium | Python |
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | Python |
-
 | 41 | First Missing Positive | Hard | Python |
 | 76 | Minimum Window Substring | Hard | Python |
 | 135 | Candy | Hard | Python |
