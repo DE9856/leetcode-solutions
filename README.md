@@ -139,40 +139,15 @@ leetcode-solutions/
 
 ## 📊 Progress
 
-<!-- START_PROGRESS -->
+<p align="center">
 
-| Language | Easy | Medium | Hard |
-|----------|------|--------|------|
-| Python | 30 | 18 | 3 |
-| Java | 8 | 0 | 0 |
-| C | 7 | 3 | 1 |
+| Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
+|----------|--------|----------|--------|-------|
+| Python   | 30     | 18       | 3      | 51    |
+| Java     | 8      | 1        | 0      | 9     |
+| C        | 7      | 3        | 1      | 11    |
 
-<!-- END_PROGRESS -->
-
----
-
-## 📈 Progress Badges
-
-<!-- START_BADGES -->
-
-### 🐍 Python
-![Easy](https://img.shields.io/badge/Easy-30-brightgreen)
-![Medium](https://img.shields.io/badge/Medium-18-yellow)
-![Hard](https://img.shields.io/badge/Hard-3-red)
-
-### ☕ Java
-![Easy](https://img.shields.io/badge/Easy-8-brightgreen)
-![Medium](https://img.shields.io/badge/Medium-0-yellow)
-![Hard](https://img.shields.io/badge/Hard-0-lightgrey)
-
-### ⚙️ C
-![Easy](https://img.shields.io/badge/Easy-7-brightgreen)
-![Medium](https://img.shields.io/badge/Medium-3-yellow)
-![Hard](https://img.shields.io/badge/Hard-1-red)
-
-<!-- END_BADGES -->
----
-
+</p>
 ## 🔥 Consistency
 
 Solving problems daily to build strong problem-solving intuition and crack technical interviews.
