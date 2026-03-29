@@ -53,7 +53,7 @@ leetcode-solutions/
   
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 30     | 18       | 3      | 51    |
+| Python   | 30     | 19       | 3      | 51    |
 | Java     | 8      | 1        | 0      | 9     |
 | C        | 7      | 3        | 1      | 11    |
 
@@ -102,6 +102,7 @@ leetcode-solutions/
 | 31 | Next Permutation | Medium | Python |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | Python |
 | 49 | Group Anagrams | Medium | Python |
+| 50 | Pow(x, n) | Medium | Python |
 | 53 | Maximum Subarray | Medium | Python |
 | 56 | Merge Intervals | Medium | Python |
 | 74 | Search a 2D Matrix | Medium | Python |
