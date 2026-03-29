@@ -137,23 +137,24 @@ leetcode-solutions/
 
 ---
 
-## Progress
+## 📊 Progress
 
-**Python**
-- Easy: 30
-- Medium: 18
-- Hard: 3
+<!-- START_PROGRESS -->
 
-**Java**
-- Easy: 8
-- Medium: 1
-- Hard: 0
+| Language | Easy | Medium | Hard |
+|----------|------|--------|------|
+| Python   | 0    | 0      | 0    |
+| Java     | 0    | 0      | 0    |
+| C        | 0    | 0      | 0    |
 
-**C**
-- Easy: 7
-- Medium: 3
-- Hard: 1
+<!-- END_PROGRESS -->
 
+---
+
+## 📈 Progress Badges
+
+<!-- START_BADGES -->
+<!-- END_BADGES -->
 ---
 
 ## 🔥 Consistency
