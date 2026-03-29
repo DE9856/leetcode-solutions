@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-DSA-blue" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
 </p>
 
 ---
