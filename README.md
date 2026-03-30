@@ -53,7 +53,7 @@ leetcode-solutions/
   
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 30     | 21       | 3      | 54    |
+| Python   | 30     | 22       | 3      | 55    |
 | C        | 7      | 3        | 1      | 11    |
 | Java     | 8      | 1        | 0      | 9     |
 
@@ -108,6 +108,7 @@ leetcode-solutions/
 | 56 | Merge Intervals | Medium | Python |
 | 74 | Search a 2D Matrix | Medium | Python |
 | 189 | Rotate Array | Medium | Python |
+| 209 | Minimum Size Subarray Sum | Medium | Python |
 | 238 | Product of Array Except Self | Medium | Python |
 | 347 | Top K Frequent Elements | Medium | Python |
 | 424 | Longest Repeating Character Replacement | Medium | Python |
