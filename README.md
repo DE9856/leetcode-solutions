@@ -53,7 +53,7 @@ leetcode-solutions/
   
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 30     | 20       | 3      | 53    |
+| Python   | 30     | 21       | 3      | 54    |
 | C        | 7      | 3        | 1      | 11    |
 | Java     | 8      | 1        | 0      | 9     |
 
@@ -113,6 +113,7 @@ leetcode-solutions/
 | 424 | Longest Repeating Character Replacement | Medium | Python |
 | 560 | Subarray Sum Equals K | Medium | Python |
 | 563 | Continuous Subarray Sum | Medium | Python |
+| 567 | Permutation in String | Medium | Python |
 | 926 | Flip String to Monotone Increasing | Medium | Python |
 | 931 | Minimum Falling Path Sum | Medium | Python |
 | 974 | Subarray Sums Divisible by K | Medium | Python |
