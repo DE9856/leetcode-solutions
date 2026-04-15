@@ -53,7 +53,7 @@ leetcode-solutions/
   
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 31     | 23       | 3      | 57    |
+| Python   | 31     | 24       | 3      | 58    |
 | C        | 7      | 3        | 1      | 11    |
 | Java     | 8      | 1        | 0      | 9     |
 
@@ -120,6 +120,7 @@ leetcode-solutions/
 | 926 | Flip String to Monotone Increasing | Medium | Python |
 | 931 | Minimum Falling Path Sum | Medium | Python |
 | 974 | Subarray Sums Divisible by K | Medium | Python |
+| 1004 | Max Consecutives Ones III | Medium | Python |
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | Python |
 | 41 | First Missing Positive | Hard | Python |
 | 76 | Minimum Window Substring | Hard | Python |
