@@ -53,7 +53,7 @@ leetcode-solutions/
   
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 30     | 22       | 3      | 55    |
+| Python   | 31     | 22       | 3      | 56    |
 | C        | 7      | 3        | 1      | 11    |
 | Java     | 8      | 1        | 0      | 9     |
 
@@ -90,6 +90,7 @@ leetcode-solutions/
 | 1486 | XOR Operation in an Array | Easy | Python |
 | 1710 | Maximum Units on a Truck | Easy | Python |
 | 1758 | Minimum Changes To Make Alternative Binary String | Easy | Python |
+| 1876 | Substrings of Size Three with Distinct Characters | Easy | Python |
 | 2011 | Final Value of Variable After Performing Operations | Easy | Python |
 | 2185 | Counting Words With a Given Prefix | Easy | Python |
 | 2769 | Find the Maximum Achievable Number | Easy | Python |
