@@ -53,7 +53,7 @@ leetcode-solutions/
   
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 31     | 24       | 3      | 58    |
+| Python   | 31     | 25       | 3      | 59   |
 | C        | 7      | 3        | 1      | 11    |
 | Java     | 8      | 1        | 0      | 9     |
 
@@ -108,6 +108,7 @@ leetcode-solutions/
 | 53 | Maximum Subarray | Medium | Python |
 | 56 | Merge Intervals | Medium | Python |
 | 74 | Search a 2D Matrix | Medium | Python |
+| 167 | Two Sum II - Input Array Sorted | Medium | Python |
 | 189 | Rotate Array | Medium | Python |
 | 209 | Minimum Size Subarray Sum | Medium | Python |
 | 238 | Product of Array Except Self | Medium | Python |
