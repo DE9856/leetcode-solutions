@@ -53,7 +53,7 @@ leetcode-solutions/
   
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 31     | 25       | 3      | 59   |
+| Python   | 32     | 25       | 3      | 60   |
 | C        | 7      | 3        | 1      | 11    |
 | Java     | 8      | 1        | 0      | 9     |
 
