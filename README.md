@@ -76,6 +76,7 @@ leetcode-solutions/
 | 121 | Best Time to Buy and Sell Stock | Easy | Python |
 | 217 | Contains Duplicate | Easy | Python |
 | 242 | Valid Anagram | Easy | Python |
+| 344 | Reverse String | Easy | Python |
 | 374 | Guess Number Higher or Lower | Easy | Python |
 | 387 | First Unique Character in a String | Easy | Python |
 | 455 | Assign Cookies | Easy | Python |
