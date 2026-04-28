@@ -53,7 +53,7 @@ leetcode-solutions/
   
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 32     | 25       | 3      | 60   |
+| Python   | 33     | 25       | 3      | 61   |
 | C        | 7      | 3        | 1      | 11    |
 | Java     | 8      | 1        | 0      | 9     |
 
@@ -77,6 +77,7 @@ leetcode-solutions/
 | 217 | Contains Duplicate | Easy | Python |
 | 242 | Valid Anagram | Easy | Python |
 | 344 | Reverse String | Easy | Python |
+| 345 | Reverse Vowels of a String | Easy | Python |
 | 374 | Guess Number Higher or Lower | Easy | Python |
 | 387 | First Unique Character in a String | Easy | Python |
 | 455 | Assign Cookies | Easy | Python |
