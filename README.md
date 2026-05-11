@@ -53,7 +53,7 @@ leetcode-solutions/
   
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 33     | 25       | 3      | 61   |
+| Python   | 34     | 25       | 3      | 62   |
 | C        | 7      | 3        | 1      | 11    |
 | Java     | 8      | 1        | 0      | 9     |
 
@@ -73,6 +73,7 @@ leetcode-solutions/
 | 35 | Search Insert Position | Easy | Python |
 | 58 | Length of Last Word | Easy | Python |
 | 69 | Sqrt(x) | Easy | Python |
+| 88 | Merge Sorted Array | Easy | Python |
 | 121 | Best Time to Buy and Sell Stock | Easy | Python |
 | 217 | Contains Duplicate | Easy | Python |
 | 242 | Valid Anagram | Easy | Python |
