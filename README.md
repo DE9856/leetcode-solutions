@@ -53,7 +53,7 @@ leetcode-solutions/
   
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 35     | 26       | 4      | 65   |
+| Python   | 35     | 27       | 4      | 66   |
 | C        | 7      | 3        | 1      | 11    |
 | Java     | 8      | 1        | 0      | 9     |
 
@@ -105,6 +105,7 @@ leetcode-solutions/
 | 3 | Longest Substring Without Repeating Characters | Medium | Python |
 | 5 | Longest Palindromic Substring | Medium | Python |
 | 11 | Container With Most Water | Medium | Python |
+| 15 | 3Sum | Medium | Python |
 | 31 | Next Permutation | Medium | Python |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | Python |
 | 49 | Group Anagrams | Medium | Python |
