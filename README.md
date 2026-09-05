@@ -53,7 +53,7 @@ leetcode-solutions/
   
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 35     | 27       | 4      | 66   |
+| Python   | 35     | 27       | 5      | 67   |
 | C        | 7      | 3        | 1      | 11    |
 | Java     | 8      | 1        | 0      | 9     |
 
@@ -130,6 +130,7 @@ leetcode-solutions/
 | 1004 | Max Consecutives Ones III | Medium | Python |
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | Python |
 | 41 | First Missing Positive | Hard | Python |
+| 42 | Trapping Rain Water | Hard | Python |
 | 76 | Minimum Window Substring | Hard | Python |
 | 135 | Candy | Hard | Python |
 | 818 | Race Car | Hard | Python |
