@@ -53,7 +53,7 @@ leetcode-solutions/
   
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 34     | 25       | 4      | 63   |
+| Python   | 35     | 25       | 4      | 64   |
 | C        | 7      | 3        | 1      | 11    |
 | Java     | 8      | 1        | 0      | 9     |
 
@@ -68,6 +68,7 @@ leetcode-solutions/
 | # | Problem | Difficulty | Language |
 |---|---------|------------|----------|
 | 14 | Longest Common Prefix | Easy | Python |
+| 20 | Valid Paranthesis | Easy | Python |
 | 27 | Remove Element | Easy | Python |
 | 28 | Find the Index of the First Occurrence in a String | Easy | Python |
 | 35 | Search Insert Position | Easy | Python |
