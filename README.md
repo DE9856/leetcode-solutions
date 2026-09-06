@@ -54,7 +54,7 @@ leetcode-solutions/
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
 | Python   | 35     | 27       | 5      | 67   |
-| C        | 7      | 3        | 1      | 11    |
+| C        | 7      | 4        | 1      | 12    |
 | Java     | 8      | 1        | 0      | 9     |
 
 
@@ -149,6 +149,7 @@ leetcode-solutions/
 | 2 | Add Two Numbers | Medium | C |
 | 19 | Remove Nth Node From End of List | Medium | C |
 | 96 | Unique Binary Search Trees | Medium | C |
+| 143 | Reorder List | Medium | C |
 | 4 | Median of Two Sorted Arrays | Hard | C |
 
 
