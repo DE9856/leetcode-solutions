@@ -121,7 +121,7 @@ leetcode-solutions/
 | 347 | Top K Frequent Elements | Medium | Python |
 | 424 | Longest Repeating Character Replacement | Medium | Python |
 | 560 | Subarray Sum Equals K | Medium | Python |
-| 563 | Continuous Subarray Sum | Medium | Python |
+| 523 | Continuous Subarray Sum | Medium | Python |
 | 567 | Permutation in String | Medium | Python |
 | 713 | Subarray Product Less Than K | Medium | Python |
 | 926 | Flip String to Monotone Increasing | Medium | Python |
