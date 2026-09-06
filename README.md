@@ -55,7 +55,7 @@ leetcode-solutions/
 |----------|--------|----------|--------|-------|
 | Python   | 35     | 27       | 5      | 67   |
 | C        | 7      | 4        | 1      | 12    |
-| Java     | 8      | 1        | 0      | 9     |
+| Java     | 8      | 2        | 0      | 10     |
 
 
 </p>
@@ -164,7 +164,8 @@ leetcode-solutions/
 | 67 | Add Binary | Easy | Java |
 | 125 | Valid Palindrome | Easy | Java |
 | 509 | Fibonacci Number | Easy | Java |
-| 7 | Reverse Integer | Med | Java |
+| 7 | Reverse Integer | Medium | Java |
+| 146 | LRU Cache | Medium | Java |
 
 ---
 
