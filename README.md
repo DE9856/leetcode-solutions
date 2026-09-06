@@ -50,13 +50,12 @@ leetcode-solutions/
 ## 📊 Progress
 
 <p align="center">
-  
+
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 36     | 27       | 5      | 68   |
+| Python   | 36     | 27       | 5      | 68    |
 | C        | 7      | 4        | 1      | 12    |
-| Java     | 9      | 2        | 0      | 11     |
-
+| Java     | 9      | 2        | 0      | 11    |
 
 </p>
 
@@ -89,8 +88,8 @@ leetcode-solutions/
 | 724 | Find Pivot Index | Easy | Python |
 | 744 | Find Smallest Letter Greater Than Target | Easy | Python |
 | 977 | Squares of a Sorted Array | Easy | Python |
-| 1005 | Maximize Sum of Array After K Negations | Easy | Python |
-| 1365 | How Many Numbers Are Smaller Than The Current Number | Easy | Python |
+| 1005 | Maximize Sum Of Array After K Negations | Easy | Python |
+| 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Python |
 | 1480 | Running Sum of 1d Array | Easy | Python |
 | 1486 | XOR Operation in an Array | Easy | Python |
 | 1710 | Maximum Units on a Truck | Easy | Python |
@@ -99,7 +98,7 @@ leetcode-solutions/
 | 2011 | Final Value of Variable After Performing Operations | Easy | Python |
 | 2185 | Counting Words With a Given Prefix | Easy | Python |
 | 2769 | Find the Maximum Achievable Number | Easy | Python |
-| 2894 | Divisible and Non-Divisible Sums Difference | Easy | Python |
+| 2894 | Divisible and Non-divisible Sums Difference | Easy | Python |
 | 2942 | Find Words Containing Character | Easy | Python |
 | 3264 | Final Array State After K Multiplication Operations I | Easy | Python |
 | 3512 | Minimum Operations to Make Array Sum Divisible by K | Easy | Python |
@@ -146,7 +145,7 @@ leetcode-solutions/
 | 141 | Linked List Cycle | Easy | C |
 | 160 | Intersection of Two Linked Lists | Easy | C |
 | 206 | Reverse Linked List | Easy | C |
-| 876 | Middle Of The Linked List | Easy | C |
+| 876 | Middle of the Linked List | Easy | C |
 | 2 | Add Two Numbers | Medium | C |
 | 19 | Remove Nth Node From End of List | Medium | C |
 | 96 | Unique Binary Search Trees | Medium | C |
