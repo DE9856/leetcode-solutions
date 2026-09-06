@@ -53,9 +53,9 @@ leetcode-solutions/
   
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 35     | 27       | 5      | 67   |
+| Python   | 36     | 27       | 5      | 68   |
 | C        | 7      | 4        | 1      | 12    |
-| Java     | 8      | 2        | 0      | 10     |
+| Java     | 9      | 2        | 0      | 11     |
 
 
 </p>
@@ -67,8 +67,9 @@ leetcode-solutions/
 **PYTHON**
 | # | Problem | Difficulty | Language |
 |---|---------|------------|----------|
+| 1 | Two Sum | Easy | Python |
 | 14 | Longest Common Prefix | Easy | Python |
-| 20 | Valid Paranthesis | Easy | Python |
+| 20 | Valid Parentheses | Easy | Python |
 | 27 | Remove Element | Easy | Python |
 | 28 | Find the Index of the First Occurrence in a String | Easy | Python |
 | 35 | Search Insert Position | Easy | Python |
@@ -93,7 +94,7 @@ leetcode-solutions/
 | 1480 | Running Sum of 1d Array | Easy | Python |
 | 1486 | XOR Operation in an Array | Easy | Python |
 | 1710 | Maximum Units on a Truck | Easy | Python |
-| 1758 | Minimum Changes To Make Alternative Binary String | Easy | Python |
+| 1758 | Minimum Changes To Make Alternating Binary String | Easy | Python |
 | 1876 | Substrings of Size Three with Distinct Characters | Easy | Python |
 | 2011 | Final Value of Variable After Performing Operations | Easy | Python |
 | 2185 | Counting Words With a Given Prefix | Easy | Python |
@@ -114,7 +115,7 @@ leetcode-solutions/
 | 56 | Merge Intervals | Medium | Python |
 | 74 | Search a 2D Matrix | Medium | Python |
 | 155 | Min Stack | Medium | Python |
-| 167 | Two Sum II - Input Array Sorted | Medium | Python |
+| 167 | Two Sum II - Input Array Is Sorted | Medium | Python |
 | 189 | Rotate Array | Medium | Python |
 | 209 | Minimum Size Subarray Sum | Medium | Python |
 | 238 | Product of Array Except Self | Medium | Python |
@@ -127,7 +128,7 @@ leetcode-solutions/
 | 926 | Flip String to Monotone Increasing | Medium | Python |
 | 931 | Minimum Falling Path Sum | Medium | Python |
 | 974 | Subarray Sums Divisible by K | Medium | Python |
-| 1004 | Max Consecutives Ones III | Medium | Python |
+| 1004 | Max Consecutive Ones III | Medium | Python |
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | Python |
 | 41 | First Missing Positive | Hard | Python |
 | 42 | Trapping Rain Water | Hard | Python |
@@ -159,7 +160,8 @@ leetcode-solutions/
 | 1 | Two Sum | Easy | Java |
 | 9 | Palindrome Number | Easy | Java |
 | 13 | Roman to Integer | Easy | Java |
-| 26 | Remove Duplicates from Sorted Arrray | Easy | Java |
+| 26 | Remove Duplicates from Sorted Array | Easy | Java |
+| 35 | Search Insert Position | Easy | Java |
 | 66 | Plus One | Easy | Java |
 | 67 | Add Binary | Easy | Java |
 | 125 | Valid Palindrome | Easy | Java |
