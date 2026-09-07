@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 39     | 27       | 5      | 71    |
+| Python   | 40     | 27       | 5      | 72    |
 | C        | 7      | 5        | 1      | 13    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -76,6 +76,7 @@ leetcode-solutions/
 | 69 | Sqrt(x) | Easy | Python |
 | 88 | Merge Sorted Array | Easy | Python |
 | 100 | Same Tree | Easy | Python |
+| 101 | Symmetric Tree | Easy | Python |
 | 104 | Maximum Depth of Binary Tree | Easy | Python |
 | 121 | Best Time to Buy and Sell Stock | Easy | Python |
 | 217 | Contains Duplicate | Easy | Python |
