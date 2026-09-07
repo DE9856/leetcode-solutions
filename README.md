@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 37     | 27       | 5      | 69    |
+| Python   | 38     | 27       | 5      | 70    |
 | C        | 7      | 5        | 1      | 13    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -78,6 +78,7 @@ leetcode-solutions/
 | 104 | Maximum Depth of Binary Tree | Easy | Python |
 | 121 | Best Time to Buy and Sell Stock | Easy | Python |
 | 217 | Contains Duplicate | Easy | Python |
+| 226 | Invert Binary Tree | Easy | Python |
 | 242 | Valid Anagram | Easy | Python |
 | 344 | Reverse String | Easy | Python |
 | 345 | Reverse Vowels of a String | Easy | Python |
