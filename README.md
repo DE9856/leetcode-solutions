@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 43     | 28       | 5      | 76    |
+| Python   | 43     | 29       | 5      | 77    |
 | C        | 7      | 5        | 1      | 13    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -124,6 +124,7 @@ leetcode-solutions/
 | 155 | Min Stack | Medium | Python |
 | 167 | Two Sum II - Input Array Is Sorted | Medium | Python |
 | 189 | Rotate Array | Medium | Python |
+| 199 | Binary Tree Right Side View | Medium | Python |
 | 209 | Minimum Size Subarray Sum | Medium | Python |
 | 238 | Product of Array Except Self | Medium | Python |
 | 347 | Top K Frequent Elements | Medium | Python |
