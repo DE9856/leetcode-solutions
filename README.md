@@ -78,6 +78,7 @@ leetcode-solutions/
 | 100 | Same Tree | Easy | Python |
 | 101 | Symmetric Tree | Easy | Python |
 | 104 | Maximum Depth of Binary Tree | Easy | Python |
+| 110 | Balanced Binary Tree | Easy | Python |
 | 121 | Best Time to Buy and Sell Stock | Easy | Python |
 | 217 | Contains Duplicate | Easy | Python |
 | 226 | Invert Binary Tree | Easy | Python |
