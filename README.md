@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 45     | 29       | 5      | 79    |
+| Python   | 46     | 29       | 5      | 80    |
 | C        | 7      | 5        | 1      | 13    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -110,6 +110,7 @@ leetcode-solutions/
 | 2894 | Divisible and Non-divisible Sums Difference | Easy | Python |
 | 2942 | Find Words Containing Character | Easy | Python |
 | 3264 | Final Array State After K Multiplication Operations I | Easy | Python |
+| 3483 | Unique 3-Digit Even Numbers | Easy | Python |
 | 3512 | Minimum Operations to Make Array Sum Divisible by K | Easy | Python |
 | 3 | Longest Substring Without Repeating Characters | Medium | Python |
 | 5 | Longest Palindromic Substring | Medium | Python |
