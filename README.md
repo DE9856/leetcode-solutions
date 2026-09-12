@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 46     | 29       | 6      | 81    |
+| Python   | 46     | 30       | 6      | 82    |
 | C        | 7      | 5        | 1      | 13    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -117,6 +117,7 @@ leetcode-solutions/
 | 11 | Container With Most Water | Medium | Python |
 | 15 | 3Sum | Medium | Python |
 | 31 | Next Permutation | Medium | Python |
+| 33 | Search in Rotated Sorted Array | Medium | Python |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | Python |
 | 49 | Group Anagrams | Medium | Python |
 | 50 | Pow(x, n) | Medium | Python |
