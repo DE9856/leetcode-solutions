@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 46     | 29       | 5      | 80    |
+| Python   | 46     | 29       | 6      | 81    |
 | C        | 7      | 5        | 1      | 13    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -146,6 +146,7 @@ leetcode-solutions/
 | 76 | Minimum Window Substring | Hard | Python |
 | 135 | Candy | Hard | Python |
 | 818 | Race Car | Hard | Python |
+| 3414 | Maximum Score of Non-overlapping Intervals | Hard | Python |
 
 
 **C**
