@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 46     | 31       | 6      | 83    |
+| Python   | 46     | 32       | 6      | 84    |
 | C        | 7      | 5        | 1      | 13    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -125,6 +125,7 @@ leetcode-solutions/
 | 53 | Maximum Subarray | Medium | Python |
 | 56 | Merge Intervals | Medium | Python |
 | 74 | Search a 2D Matrix | Medium | Python |
+| 75 | Sort Colors | Medium | Python |
 | 102 | Binary Tree Level Order Traversal | Medium | Python |
 | 155 | Min Stack | Medium | Python |
 | 167 | Two Sum II - Input Array Is Sorted | Medium | Python |
