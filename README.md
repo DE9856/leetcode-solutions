@@ -57,6 +57,21 @@ leetcode-solutions/
 | C        | 7      | 5        | 1      | 13    |
 | Java     | 9      | 2        | 0      | 11    |
 
+
+
+</p>
+
+## Competitions
+
+<p align="center">
+
+| Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
+|----------|--------|----------|--------|-------|
+| Python   | 1     | 1       | 0      | 2    |
+
+
+
+
 </p>
 
 ---
