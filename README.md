@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 46     | 32       | 6      | 84    |
+| Python   | 47     | 32       | 6      | 85    |
 | C        | 7      | 5        | 1      | 13    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -95,6 +95,7 @@ leetcode-solutions/
 | 104 | Maximum Depth of Binary Tree | Easy | Python |
 | 110 | Balanced Binary Tree | Easy | Python |
 | 112 | Path Sum | Easy | Python |
+| 118 | Pascal's Triangle | Easy | Python |
 | 121 | Best Time to Buy and Sell Stock | Easy | Python |
 | 144 | Binary Tree Preorder Traversal | Easy | Python |
 | 145 | Binary Tree Postorder Traversal | Easy | Python |
