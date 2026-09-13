@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 48     | 33       | 6      | 87    |
+| Python   | 48     | 34       | 6      | 88    |
 | C        | 7      | 5        | 1      | 13    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -137,6 +137,7 @@ leetcode-solutions/
 | 33 | Search in Rotated Sorted Array | Medium | Python |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | Python |
 | 39 | Combination Sum | Medium | Python |
+| 48 | Rotate Image | Medium | Python |
 | 49 | Group Anagrams | Medium | Python |
 | 50 | Pow(x, n) | Medium | Python |
 | 53 | Maximum Subarray | Medium | Python |
