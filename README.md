@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 51     | 35       | 6      | 92    |
+| Python   | 52     | 35       | 6      | 93    |
 | C        | 7      | 5        | 1      | 13    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -118,6 +118,7 @@ leetcode-solutions/
 | 977 | Squares of a Sorted Array | Easy | Python |
 | 1005 | Maximize Sum Of Array After K Negations | Easy | Python |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Python |
+| 1380 | Lucky Numbers in a Matrix | Easy | Python |
 | 1480 | Running Sum of 1d Array | Easy | Python |
 | 1486 | XOR Operation in an Array | Easy | Python |
 | 1710 | Maximum Units on a Truck | Easy | Python |
