@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 48     | 32       | 6      | 86    |
+| Python   | 48     | 33       | 6      | 87    |
 | C        | 7      | 5        | 1      | 13    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -152,6 +152,7 @@ leetcode-solutions/
 | 238 | Product of Array Except Self | Medium | Python |
 | 347 | Top K Frequent Elements | Medium | Python |
 | 424 | Longest Repeating Character Replacement | Medium | Python |
+| 498 | Diagonal Traverse | Medium | Python |
 | 523 | Continuous Subarray Sum | Medium | Python |
 | 560 | Subarray Sum Equals K | Medium | Python |
 | 567 | Permutation in String | Medium | Python |
