@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 48     | 34       | 6      | 88    |
+| Python   | 48     | 35       | 6      | 89    |
 | C        | 7      | 5        | 1      | 13    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -142,6 +142,7 @@ leetcode-solutions/
 | 50 | Pow(x, n) | Medium | Python |
 | 53 | Maximum Subarray | Medium | Python |
 | 56 | Merge Intervals | Medium | Python |
+| 73 | Set Matrix Zeroes | Medium | Python |
 | 74 | Search a 2D Matrix | Medium | Python |
 | 75 | Sort Colors | Medium | Python |
 | 102 | Binary Tree Level Order Traversal | Medium | Python |
