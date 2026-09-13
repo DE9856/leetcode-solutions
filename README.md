@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 49     | 35       | 6      | 90    |
+| Python   | 50     | 35       | 6      | 91    |
 | C        | 7      | 5        | 1      | 13    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -123,6 +123,7 @@ leetcode-solutions/
 | 1758 | Minimum Changes To Make Alternating Binary String | Easy | Python |
 | 1876 | Substrings of Size Three with Distinct Characters | Easy | Python |
 | 2011 | Final Value of Variable After Performing Operations | Easy | Python |
+| 2022 | Convert 1D Array into 2D Array | Easy | Python |
 | 2185 | Counting Words With a Given Prefix | Easy | Python |
 | 2769 | Find the Maximum Achievable Number | Easy | Python |
 | 2894 | Divisible and Non-divisible Sums Difference | Easy | Python |
