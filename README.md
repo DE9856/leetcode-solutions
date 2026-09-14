@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 52     | 36       | 6      | 94    |
+| Python   | 53     | 36       | 6      | 95    |
 | C        | 7      | 5        | 1      | 13    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -114,6 +114,7 @@ leetcode-solutions/
 | 724 | Find Pivot Index | Easy | Python |
 | 744 | Find Smallest Letter Greater Than Target | Easy | Python |
 | 832 | Flipping an Image | Easy | Python |
+| 836 | Rectangle Overlap | Easy | Python |
 | 867 | Transpose Matrix | Easy | Python |
 | 977 | Squares of a Sorted Array | Easy | Python |
 | 1005 | Maximize Sum Of Array After K Negations | Easy | Python |
