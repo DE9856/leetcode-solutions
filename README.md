@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 54     | 36       | 6      | 96    |
+| Python   | 55     | 36       | 6      | 97    |
 | C        | 7      | 5        | 1      | 13    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -101,6 +101,7 @@ leetcode-solutions/
 | 136 | Single Number | Easy | Python |
 | 144 | Binary Tree Preorder Traversal | Easy | Python |
 | 145 | Binary Tree Postorder Traversal | Easy | Python |
+| 191 | Number of 1 Bits | Easy | Python |
 | 217 | Contains Duplicate | Easy | Python |
 | 226 | Invert Binary Tree | Easy | Python |
 | 242 | Valid Anagram | Easy | Python |
