@@ -67,7 +67,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 1     | 1       | 0      | 2    |
+| Python   | 2     | 1       | 0      | 3    |
 
 
 
