@@ -54,7 +54,7 @@ leetcode-solutions/
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
 | Python   | 58     | 37       | 7      | 102    |
-| C        | 7      | 7        | 1      | 15    |
+| C        | 7      | 8        | 1      | 16    |
 | Java     | 9      | 2        | 0      | 11    |
 
 
@@ -199,6 +199,7 @@ leetcode-solutions/
 | 19 | Remove Nth Node From End of List | Medium | C |
 | 24 | Swap Nodes in Pairs | Medium | C |
 | 61 | Rotate List | Medium | C |
+| 82 | Remove Duplicates from Sorted List II | Medium | C |
 | 96 | Unique Binary Search Trees | Medium | C |
 | 138 | Copy List with Random Pointer | Medium | C |
 | 143 | Reorder List | Medium | C |
