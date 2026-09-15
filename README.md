@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 56     | 36       | 7      | 99    |
+| Python   | 57     | 36       | 7      | 100    |
 | C        | 7      | 5        | 1      | 13    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -119,6 +119,7 @@ leetcode-solutions/
 | 832 | Flipping an Image | Easy | Python |
 | 836 | Rectangle Overlap | Easy | Python |
 | 867 | Transpose Matrix | Easy | Python |
+| 896 | Monotonic Array | Easy | Python |
 | 977 | Squares of a Sorted Array | Easy | Python |
 | 1005 | Maximize Sum Of Array After K Negations | Easy | Python |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Python |
