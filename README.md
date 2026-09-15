@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 58     | 36       | 7      | 101    |
+| Python   | 58     | 37       | 7      | 102    |
 | C        | 7      | 5        | 1      | 13    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -146,6 +146,7 @@ leetcode-solutions/
 | 31 | Next Permutation | Medium | Python |
 | 33 | Search in Rotated Sorted Array | Medium | Python |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | Python |
+| 36 | Valid Sudoku | Medium | Python |
 | 39 | Combination Sum | Medium | Python |
 | 48 | Rotate Image | Medium | Python |
 | 49 | Group Anagrams | Medium | Python |
