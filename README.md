@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 58     | 39       | 7      | 104    |
+| Python   | 59     | 39       | 7      | 105    |
 | C        | 7      | 8        | 1      | 16    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -111,6 +111,7 @@ leetcode-solutions/
 | 345 | Reverse Vowels of a String | Easy | Python |
 | 374 | Guess Number Higher or Lower | Easy | Python |
 | 387 | First Unique Character in a String | Easy | Python |
+| 392 | Is Subsequence | Easy | Python |
 | 455 | Assign Cookies | Easy | Python |
 | 543 | Diameter of Binary Tree | Easy | Python |
 | 643 | Maximum Average Subarray I | Easy | Python |
