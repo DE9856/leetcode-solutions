@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 58     | 38       | 7      | 103    |
+| Python   | 58     | 39       | 7      | 104    |
 | C        | 7      | 8        | 1      | 16    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -152,6 +152,7 @@ leetcode-solutions/
 | 49 | Group Anagrams | Medium | Python |
 | 50 | Pow(x, n) | Medium | Python |
 | 53 | Maximum Subarray | Medium | Python |
+| 55 | Jump Game | Medium | Python |
 | 56 | Merge Intervals | Medium | Python |
 | 73 | Set Matrix Zeroes | Medium | Python |
 | 74 | Search a 2D Matrix | Medium | Python |
