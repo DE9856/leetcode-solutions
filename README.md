@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 58     | 37       | 7      | 102    |
+| Python   | 58     | 38       | 7      | 103    |
 | C        | 7      | 8        | 1      | 16    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -156,6 +156,7 @@ leetcode-solutions/
 | 73 | Set Matrix Zeroes | Medium | Python |
 | 74 | Search a 2D Matrix | Medium | Python |
 | 75 | Sort Colors | Medium | Python |
+| 80 | Remove Duplicates from Sorted Array II | Medium | Python |
 | 102 | Binary Tree Level Order Traversal | Medium | Python |
 | 155 | Min Stack | Medium | Python |
 | 167 | Two Sum II - Input Array Is Sorted | Medium | Python |
