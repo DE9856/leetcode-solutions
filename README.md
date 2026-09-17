@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 59     | 40       | 7      | 106    |
+| Python   | 59     | 41       | 7      | 107    |
 | C        | 7      | 8        | 2      | 17    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -179,6 +179,7 @@ leetcode-solutions/
 | 974 | Subarray Sums Divisible by K | Medium | Python |
 | 1004 | Max Consecutive Ones III | Medium | Python |
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | Python |
+| 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | Python |
 | 1621 | Number of Sets of K Non-Overlapping Line Segments | Medium | Python |
 | 41 | First Missing Positive | Hard | Python |
 | 42 | Trapping Rain Water | Hard | Python |
