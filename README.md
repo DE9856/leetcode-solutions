@@ -54,7 +54,7 @@ leetcode-solutions/
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
 | Python   | 59     | 41       | 9      | 109    |
-| C        | 7      | 10        | 3      | 20    |
+| C        | 7      | 10        | 4      | 21    |
 | Java     | 9      | 2        | 0      | 11    |
 
 
@@ -215,6 +215,7 @@ leetcode-solutions/
 | 4 | Median of Two Sorted Arrays | Hard | C |
 | 23 | Merge k Sorted Lists | Hard | C |
 | 25 | Reverse Nodes in k-Group | Hard | C |
+| 52 | N-Queens II | Hard | C |
 
 
 **JAVA**
