@@ -54,7 +54,7 @@ leetcode-solutions/
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
 | Python   | 59     | 41       | 8      | 108    |
-| C        | 7      | 10        | 2      | 19    |
+| C        | 7      | 10        | 3      | 20    |
 | Java     | 9      | 2        | 0      | 11    |
 
 
@@ -212,6 +212,7 @@ leetcode-solutions/
 | 138 | Copy List with Random Pointer | Medium | C |
 | 143 | Reorder List | Medium | C |
 | 4 | Median of Two Sorted Arrays | Hard | C |
+| 23 | Merge k Sorted Lists | Hard | C |
 | 25 | Reverse Nodes in k-Group | Hard | C |
 
 
