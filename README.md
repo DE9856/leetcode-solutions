@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 59     | 41       | 8      | 108    |
+| Python   | 59     | 41       | 9      | 109    |
 | C        | 7      | 10        | 3      | 20    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -185,6 +185,7 @@ leetcode-solutions/
 | 42 | Trapping Rain Water | Hard | Python |
 | 76 | Minimum Window Substring | Hard | Python |
 | 135 | Candy | Hard | Python |
+| 224 | Basic Calculator | Hard | Python |
 | 818 | Race Car | Hard | Python |
 | 1520 | Maximum Number of Non-Overlapping Substrings | Hard | Python |
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | Hard | Python |
