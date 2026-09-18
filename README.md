@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 59     | 41       | 9      | 109    |
+| Python   | 59     | 42       | 9      | 110    |
 | C        | 7      | 10        | 4      | 21    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -160,6 +160,7 @@ leetcode-solutions/
 | 75 | Sort Colors | Medium | Python |
 | 80 | Remove Duplicates from Sorted Array II | Medium | Python |
 | 102 | Binary Tree Level Order Traversal | Medium | Python |
+| 128 | Longest Consecutive Sequence | Medium | Python |
 | 155 | Min Stack | Medium | Python |
 | 167 | Two Sum II - Input Array Is Sorted | Medium | Python |
 | 189 | Rotate Array | Medium | Python |
