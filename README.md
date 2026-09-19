@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 60     | 45       | 9      | 114    |
+| Python   | 60     | 46       | 9      | 115    |
 | C        | 7      | 10        | 4      | 21    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -183,6 +183,7 @@ leetcode-solutions/
 | 931 | Minimum Falling Path Sum | Medium | Python |
 | 974 | Subarray Sums Divisible by K | Medium | Python |
 | 1004 | Max Consecutive Ones III | Medium | Python |
+| 1401 | Circle and Rectangle Overlapping | Medium | Python |
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | Python |
 | 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | Python |
 | 1621 | Number of Sets of K Non-Overlapping Line Segments | Medium | Python |
