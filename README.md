@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 59     | 42       | 9      | 110    |
+| Python   | 60     | 42       | 9      | 111    |
 | C        | 7      | 10        | 4      | 21    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -117,6 +117,7 @@ leetcode-solutions/
 | 643 | Maximum Average Subarray I | Easy | Python |
 | 709 | To Lower Case | Easy | Python |
 | 724 | Find Pivot Index | Easy | Python |
+| 733 | Flood Fill | Easy | Python |
 | 744 | Find Smallest Letter Greater Than Target | Easy | Python |
 | 832 | Flipping an Image | Easy | Python |
 | 836 | Rectangle Overlap | Easy | Python |
