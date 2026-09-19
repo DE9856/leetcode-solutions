@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 63     | 49       | 9      | 121    |
+| Python   | 63     | 50       | 9      | 122    |
 | C        | 7      | 10        | 4      | 21    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -172,6 +172,7 @@ leetcode-solutions/
 | 189 | Rotate Array | Medium | Python |
 | 199 | Binary Tree Right Side View | Medium | Python |
 | 200 | Number of Islands | Medium | Python |
+| 207 | Course Schedule | Medium | Python |
 | 209 | Minimum Size Subarray Sum | Medium | Python |
 | 238 | Product of Array Except Self | Medium | Python |
 | 347 | Top K Frequent Elements | Medium | Python |
