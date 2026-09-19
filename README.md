@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 60     | 43       | 9      | 112    |
+| Python   | 60     | 44       | 9      | 113    |
 | C        | 7      | 10        | 4      | 21    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -175,6 +175,7 @@ leetcode-solutions/
 | 523 | Continuous Subarray Sum | Medium | Python |
 | 560 | Subarray Sum Equals K | Medium | Python |
 | 567 | Permutation in String | Medium | Python |
+| 695 | Max Area of Island | Medium | Python |
 | 713 | Subarray Product Less Than K | Medium | Python |
 | 835 | Image Overlap | Medium | Python |
 | 926 | Flip String to Monotone Increasing | Medium | Python |
