@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 63     | 48       | 9      | 120    |
+| Python   | 63     | 49       | 9      | 121    |
 | C        | 7      | 10        | 4      | 21    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -165,6 +165,7 @@ leetcode-solutions/
 | 80 | Remove Duplicates from Sorted Array II | Medium | Python |
 | 102 | Binary Tree Level Order Traversal | Medium | Python |
 | 128 | Longest Consecutive Sequence | Medium | Python |
+| 133 | Clone Graph | Medium | Python |
 | 155 | Min Stack | Medium | Python |
 | 167 | Two Sum II - Input Array Is Sorted | Medium | Python |
 | 172 | Factorial Trailing Zeroes | Medium | Python |
