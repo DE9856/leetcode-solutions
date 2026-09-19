@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 63     | 46       | 9      | 118    |
+| Python   | 63     | 47       | 9      | 119    |
 | C        | 7      | 10        | 4      | 21    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -167,6 +167,7 @@ leetcode-solutions/
 | 128 | Longest Consecutive Sequence | Medium | Python |
 | 155 | Min Stack | Medium | Python |
 | 167 | Two Sum II - Input Array Is Sorted | Medium | Python |
+| 172 | Factorial Trailing Zeroes | Medium | Python |
 | 189 | Rotate Array | Medium | Python |
 | 199 | Binary Tree Right Side View | Medium | Python |
 | 200 | Number of Islands | Medium | Python |
