@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 60     | 44       | 9      | 113    |
+| Python   | 60     | 45       | 9      | 114    |
 | C        | 7      | 10        | 4      | 21    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -173,6 +173,7 @@ leetcode-solutions/
 | 424 | Longest Repeating Character Replacement | Medium | Python |
 | 498 | Diagonal Traverse | Medium | Python |
 | 523 | Continuous Subarray Sum | Medium | Python |
+| 547 | Number of Provinces | Medium | Python |
 | 560 | Subarray Sum Equals K | Medium | Python |
 | 567 | Permutation in String | Medium | Python |
 | 695 | Max Area of Island | Medium | Python |
