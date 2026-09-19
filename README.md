@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 60     | 46       | 9      | 115    |
+| Python   | 61     | 46       | 9      | 116    |
 | C        | 7      | 10        | 4      | 21    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -105,6 +105,7 @@ leetcode-solutions/
 | 202 | Happy Number | Easy | Python |
 | 217 | Contains Duplicate | Easy | Python |
 | 226 | Invert Binary Tree | Easy | Python |
+| 231 | Power of Two | Easy | Python |
 | 242 | Valid Anagram | Easy | Python |
 | 338 | Counting Bits | Easy | Python |
 | 344 | Reverse String | Easy | Python |
