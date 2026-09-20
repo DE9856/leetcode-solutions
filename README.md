@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 64     | 50       | 9      | 123    |
+| Python   | 64     | 50       | 10      | 124    |
 | C        | 7      | 10        | 4      | 21    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -197,6 +197,7 @@ leetcode-solutions/
 | 1621 | Number of Sets of K Non-Overlapping Line Segments | Medium | Python |
 | 41 | First Missing Positive | Hard | Python |
 | 42 | Trapping Rain Water | Hard | Python |
+| 51 | N-Queens | Hard | Python |
 | 76 | Minimum Window Substring | Hard | Python |
 | 135 | Candy | Hard | Python |
 | 224 | Basic Calculator | Hard | Python |
