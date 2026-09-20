@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 63     | 50       | 9      | 122    |
+| Python   | 64     | 50       | 9      | 123    |
 | C        | 7      | 10        | 4      | 21    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -143,6 +143,7 @@ leetcode-solutions/
 | 2942 | Find Words Containing Character | Easy | Python |
 | 3264 | Final Array State After K Multiplication Operations I | Easy | Python |
 | 3483 | Unique 3-Digit Even Numbers | Easy | Python |
+| 3498 | Reverse Degree of a String | Easy | Python |
 | 3512 | Minimum Operations to Make Array Sum Divisible by K | Easy | Python |
 | 3 | Longest Substring Without Repeating Characters | Medium | Python |
 | 5 | Longest Palindromic Substring | Medium | Python |
