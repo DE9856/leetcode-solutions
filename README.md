@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 64     | 50       | 10      | 124    |
+| Python   | 64     | 51       | 10      | 125    |
 | C        | 7      | 10        | 4      | 21    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -195,6 +195,7 @@ leetcode-solutions/
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | Python |
 | 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | Python |
 | 1621 | Number of Sets of K Non-Overlapping Line Segments | Medium | Python |
+| 3524 | Find X Value of Array I | Medium | Python
 | 41 | First Missing Positive | Hard | Python |
 | 42 | Trapping Rain Water | Hard | Python |
 | 51 | N-Queens | Hard | Python |
