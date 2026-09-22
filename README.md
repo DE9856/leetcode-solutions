@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 64     | 51       | 10      | 125    |
+| Python   | 64     | 51       | 11      | 126    |
 | C        | 7      | 10        | 4      | 21    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -206,6 +206,7 @@ leetcode-solutions/
 | 1520 | Maximum Number of Non-Overlapping Substrings | Hard | Python |
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | Hard | Python |
 | 3414 | Maximum Score of Non-overlapping Intervals | Hard | Python |
+| 3525 | Find X Value of Array II | Hard | Python |
 
 
 **C**
