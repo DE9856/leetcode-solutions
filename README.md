@@ -53,7 +53,7 @@ leetcode-solutions/
 
 | Language | Easy 🟢 | Medium 🟡 | Hard 🔴 | Total |
 |----------|--------|----------|--------|-------|
-| Python   | 64     | 52       | 11      | 127    |
+| Python   | 65     | 52       | 11      | 128    |
 | C        | 7      | 10        | 4      | 21    |
 | Java     | 9      | 2        | 0      | 11    |
 
@@ -145,6 +145,7 @@ leetcode-solutions/
 | 3483 | Unique 3-Digit Even Numbers | Easy | Python |
 | 3498 | Reverse Degree of a String | Easy | Python |
 | 3512 | Minimum Operations to Make Array Sum Divisible by K | Easy | Python |
+| 3550 | Smallest Index With Digit Sum Equal to Index | Easy | Python |
 | 3 | Longest Substring Without Repeating Characters | Medium | Python |
 | 5 | Longest Palindromic Substring | Medium | Python |
 | 11 | Container With Most Water | Medium | Python |
